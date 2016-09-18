@@ -6,7 +6,7 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
-        <title>News | Abu Dhabi Islamic Bank (ADIB) - Egypt</title><link rel="shortcut icon" href="images/favicon.png" type="image/x-icon"><link rel="stylesheet" type="text/css" href="css/css.css"/><link rel="stylesheet" type="text/css" href="css/glowtabs.css"/><link rel="stylesheet" href="css/slider.css" type="text/css" media="screen"/>
+        <title>News | Abu Dhabi Islamic Bank (ADIB) - UAE</title><link rel="shortcut icon" href="images/favicon.png" type="image/x-icon"><link rel="stylesheet" type="text/css" href="css/css.css"/><link rel="stylesheet" type="text/css" href="css/glowtabs.css"/><link rel="stylesheet" href="css/slider.css" type="text/css" media="screen"/>
     <link rel="stylesheet" href="css/slider2.css" type="text/css" media="screen"/>
     <script src="css/js/jquery-1.9.1.js"></script>
   <script src="css/js/jquery-ui.js"></script>
@@ -67,10 +67,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="topNav">
    
     <ul id="jDropDown">
-      <li><a href="index.html">Home</a></li><li>|</li><li><a href="about-ADIB – Abu Dhabi.html">About ADIB Egypt</a>
+      <li><a href="index.html">Home</a></li><li>|</li><li><a href="about-ADIB – Abu Dhabi.html">About ADIB UAE</a>
        <div class="column_2">
         <ul>
-          <li><a href="about-ADIB – Abu Dhabi/about-ADIB – Abu Dhabi.html">About ADIB Egypt </a></li>
+          <li><a href="about-ADIB – Abu Dhabi/about-ADIB – Abu Dhabi.html">About ADIB UAE </a></li>
           <li><a href="about-ADIB – Abu Dhabi/vision-mission.html">Vision & Mission </a></li>
             <li><a href="about-ADIB – Abu Dhabi/board-of-directors.html">Board of Directors </a></li>
             <li><a href="about-ADIB – Abu Dhabi/corporate-values.html">Corporate Values </a></li>
@@ -101,8 +101,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <h1>News</h1><div class="newsinfo"><img src="media/168341/picture1.png" /><h3 class="Currentadv"><a href="news/global-finance-2016.html">ADIB – Abu Dhabi Named “Best Islamic Financial Institution” by Global Finance </a></h3><span class="date">01-04-2016</span><p>ADIB – Abu Dhabi has been recognized as ‘Best Islamic Financial Institution in UAE' for the year 2016 by Global Finance Magazine, an established worldwide reference in the banking and business communities.</p></div><div class="newsinfo"><img src="media/155668/ahmed_effat.jpg" /><h3 class="Currentadv"><a href="news/adib-branches">ADIB – Abu Dhabi Inaugurates 8 New Branches as Part of its Redistribution Strategy</a></h3><span class="date">29-12-2015</span><p>In light of its commitment to provide the best banking services to its customers
 ADIB – Abu Dhabi Inaugurates 8 New Branches as Part of its Redistribution Strategy
 
-Ahmed Effat, ADIB – Abu Dhabi Head of Retail: “Redistributing our network helps us better serve the Egyptian economy by facilitating customers’ access to unique banking services”
-</p></div><div class="newsinfo"><img src="media/155570/nevine_loutfy__managing_director_and_ceo_of_adib_-_egypt.jpg" /><h3 class="Currentadv"><a href="news/adib-business-banking">Abu Dhabi Islamic Bank – Egypt Launches Definitive Financing Programs for Small Companies and Healthcare Practitioners </a></h3><span class="date">15-12-2015</span><p> Abu Dhabi Islamic Bank – Egypt has launched financing programs tailored to address the needs of small businesses and doctors who own clinics.
+Ahmed Effat, ADIB – Abu Dhabi Head of Retail: “Redistributing our network helps us better serve the UAEian economy by facilitating customers’ access to unique banking services”
+</p></div><div class="newsinfo"><img src="media/155570/nevine_loutfy__managing_director_and_ceo_of_adib_-_UAE.jpg" /><h3 class="Currentadv"><a href="news/adib-business-banking">Abu Dhabi Islamic Bank – UAE Launches Definitive Financing Programs for Small Companies and Healthcare Practitioners </a></h3><span class="date">15-12-2015</span><p> Abu Dhabi Islamic Bank – UAE has launched financing programs tailored to address the needs of small businesses and doctors who own clinics.
 </p></div><div class="pager"><ul><li class="act"><span>1</span></li><li><a href="newse7bc.aspx?Page=2">2</a></li><li><a href="newsbbd5.aspx?Page=3">3</a></li><li><a href="news587a.aspx?Page=4">4</a></li><li><a href="news4c20.aspx?Page=5">5</a></li><li><a href="news9917.aspx?Page=6">6</a></li><li><a href="news2d09.aspx?Page=7">7</a></li><li><a href="news86ea.aspx?Page=8">8</a></li><li><a href="newsdd0b.aspx?Page=9">9</a></li><li><a href="news9ad1.aspx?Page=10">10</a></li><li><a href="newsb877.aspx?Page=11">11</a></li><li><a href="news14cb.aspx?Page=12">12</a></li><li><a href="news5c93.aspx?Page=13">13</a></li><li><a href="newse464.aspx?Page=14">14</a></li><li><a href="newse7bc.aspx?Page=2">next</a></li></ul></div>
                 <div class="FooterAdv"><a href='wholesale-banking/corporate-banking-part.html'><p class="reImgeImg"><img src="images/AccountsAdv.jpg" width="183" height="131" alt="Corporate Banking"/></p>
 <h3 class="Currentadv">Corporate Banking</h3>

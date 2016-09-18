@@ -6,7 +6,7 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
-        <title>News | Abu Dhabi Islamic Bank (ADIB) - Egypt</title><link rel="shortcut icon" href="images/favicon.png" type="image/x-icon"><link rel="stylesheet" type="text/css" href="css/css.css"/><link rel="stylesheet" type="text/css" href="css/glowtabs.css"/><link rel="stylesheet" href="css/slider.css" type="text/css" media="screen"/>
+        <title>News | Abu Dhabi Islamic Bank (ADIB) - UAE</title><link rel="shortcut icon" href="images/favicon.png" type="image/x-icon"><link rel="stylesheet" type="text/css" href="css/css.css"/><link rel="stylesheet" type="text/css" href="css/glowtabs.css"/><link rel="stylesheet" href="css/slider.css" type="text/css" media="screen"/>
     <link rel="stylesheet" href="css/slider2.css" type="text/css" media="screen"/>
     <script src="css/js/jquery-1.9.1.js"></script>
   <script src="css/js/jquery-ui.js"></script>
@@ -67,10 +67,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="topNav">
    
     <ul id="jDropDown">
-      <li><a href="index.html">Home</a></li><li>|</li><li><a href="about-ADIB – Abu Dhabi.html">About ADIB Egypt</a>
+      <li><a href="index.html">Home</a></li><li>|</li><li><a href="about-ADIB – Abu Dhabi.html">About ADIB UAE</a>
        <div class="column_2">
         <ul>
-          <li><a href="about-ADIB – Abu Dhabi/about-ADIB – Abu Dhabi.html">About ADIB Egypt </a></li>
+          <li><a href="about-ADIB – Abu Dhabi/about-ADIB – Abu Dhabi.html">About ADIB UAE </a></li>
           <li><a href="about-ADIB – Abu Dhabi/vision-mission.html">Vision & Mission </a></li>
             <li><a href="about-ADIB – Abu Dhabi/board-of-directors.html">Board of Directors </a></li>
             <li><a href="about-ADIB – Abu Dhabi/corporate-values.html">Corporate Values </a></li>
@@ -98,10 +98,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div id="LeftSide">
               <div class="CurrentContent ">  
 
-  <h1>News</h1><div class="newsinfo"><img src="media/155696/nevine_loutfy__managing_director_and_ceo_of_adib_-_egypt.jpg" /><h3 class="Currentadv"><a href="news/adib-results.html">Abu Dhabi Islamic Bank – UAE's Reveals Q3 2015 Financial Results Solidifying Continuous Growth</a></h3><span class="date">10-11-2015</span><p>ADIB Egypt named Best Islamic Corporate Bank in Africa – North Africa 2015 and Best Islamic Commercial Bank in Africa – North Africa 2015</p></div><div class="newsinfo"><img src="media/129677/nevine-lotfy-1.jpg" /><h3 class="Currentadv"><a href="news/adib-scoops-awards-at-ifn-awards-ceremony.html">ADIB Scoops Awards at IFN Awards Ceremony</a></h3><span class="date">22-03-2015</span><p>ADIB - Egypt Received Two Prestigious Awards 
-• “Best Islamic Bank in Egypt” for the 5th year in a row
-• “Best deal of the year  in 2014” </p></div><div class="newsinfo"><img src="media/129747/zeinab-hashem_-managing-director-and-ceo-of-adib-capital---egypt.jpg" /><h3 class="Currentadv"><a href="news/ADIB – Abu Dhabi-demonstrates-strong-commitment-to-eedc.html">ADIB- Egypt Demonstrates Strong Commitment to EEDC</a></h3><span class="date">10-03-2015</span><p>Top management delegation from ADIB -Egypt, ADIB Capital- Egypt and ADIB- UAE participate in EEDC.
-ADIB - Egypt supports vital projects launched including power station, oil refinery, PPP in transport, wind farm and  rehabilitation center
+  <h1>News</h1><div class="newsinfo"><img src="media/155696/nevine_loutfy__managing_director_and_ceo_of_adib_-_UAE.jpg" /><h3 class="Currentadv"><a href="news/adib-results.html">Abu Dhabi Islamic Bank – UAE's Reveals Q3 2015 Financial Results Solidifying Continuous Growth</a></h3><span class="date">10-11-2015</span><p>ADIB UAE named Best Islamic Corporate Bank in Africa – North Africa 2015 and Best Islamic Commercial Bank in Africa – North Africa 2015</p></div><div class="newsinfo"><img src="media/129677/nevine-lotfy-1.jpg" /><h3 class="Currentadv"><a href="news/adib-scoops-awards-at-ifn-awards-ceremony.html">ADIB Scoops Awards at IFN Awards Ceremony</a></h3><span class="date">22-03-2015</span><p>ADIB - UAE Received Two Prestigious Awards 
+• “Best Islamic Bank in UAE” for the 5th year in a row
+• “Best deal of the year  in 2014” </p></div><div class="newsinfo"><img src="media/129747/zeinab-hashem_-managing-director-and-ceo-of-adib-capital---UAE.jpg" /><h3 class="Currentadv"><a href="news/ADIB – Abu Dhabi-demonstrates-strong-commitment-to-eedc.html">ADIB- UAE Demonstrates Strong Commitment to EEDC</a></h3><span class="date">10-03-2015</span><p>Top management delegation from ADIB -UAE, ADIB Capital- UAE and ADIB- UAE participate in EEDC.
+ADIB - UAE supports vital projects launched including power station, oil refinery, PPP in transport, wind farm and  rehabilitation center
 </p></div><div class="pager"><ul><li><a href="news8654.html?Page=1">previous</a></li><li><a href="news8654.html?Page=1">1</a></li><li class="act"><span>2</span></li><li><a href="newsbbd5.aspx?Page=3">3</a></li><li><a href="news587a.aspx?Page=4">4</a></li><li><a href="news4c20.aspx?Page=5">5</a></li><li><a href="news9917.aspx?Page=6">6</a></li><li><a href="news2d09.aspx?Page=7">7</a></li><li><a href="news86ea.aspx?Page=8">8</a></li><li><a href="newsdd0b.aspx?Page=9">9</a></li><li><a href="news9ad1.aspx?Page=10">10</a></li><li><a href="newsb877.aspx?Page=11">11</a></li><li><a href="news14cb.aspx?Page=12">12</a></li><li><a href="news5c93.aspx?Page=13">13</a></li><li><a href="newse464.aspx?Page=14">14</a></li><li><a href="newsbbd5.aspx?Page=3">next</a></li></ul></div>
                 <div class="FooterAdv"><a href='wholesale-banking/corporate-banking-part.html'><p class="reImgeImg"><img src="images/AccountsAdv.jpg" width="183" height="131" alt="Corporate Banking"/></p>
 <h3 class="Currentadv">Corporate Banking</h3>

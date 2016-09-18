@@ -3,7 +3,7 @@
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
   
   
-  <title>Abu Dhabi Islamic Bank (ADIB) - Egypt</title>
+  <title>Abu Dhabi Islamic Bank (ADIB) - UAE</title>
   <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon">
   
   <link rel="stylesheet" type="text/css" href="/css/css.css"/>
@@ -116,10 +116,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <div class="topNav">
    
     <ul id="jDropDown">
-      <li><a href="/">Home</a></li><li>| </li><li><a href="/about-ADIB – Abu Dhabi">About ADIB Egypt</a>
+      <li><a href="/">Home</a></li><li>| </li><li><a href="/about-ADIB – Abu Dhabi">About ADIB UAE</a>
        <div class="column_2">
         <ul>
-          <li><a href="/about-ADIB – Abu Dhabi/about-ADIB – Abu Dhabi">About ADIB Egypt </a></li>
+          <li><a href="/about-ADIB – Abu Dhabi/about-ADIB – Abu Dhabi">About ADIB UAE </a></li>
           <li><a href="/about-ADIB – Abu Dhabi/vision-mission">Vision & Mission </a></li>
             <li><a href="/about-ADIB – Abu Dhabi/board-of-directors">Board of Directors </a></li>
             <li><a href="/about-ADIB – Abu Dhabi/corporate-values">Corporate Values </a></li>

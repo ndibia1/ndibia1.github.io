@@ -6,7 +6,7 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
-        <title>News | Abu Dhabi Islamic Bank (ADIB) - Egypt</title><link rel="shortcut icon" href="images/favicon.png" type="image/x-icon"><link rel="stylesheet" type="text/css" href="css/css.css"/><link rel="stylesheet" type="text/css" href="css/glowtabs.css"/><link rel="stylesheet" href="css/slider.css" type="text/css" media="screen"/>
+        <title>News | Abu Dhabi Islamic Bank (ADIB) - UAE</title><link rel="shortcut icon" href="images/favicon.png" type="image/x-icon"><link rel="stylesheet" type="text/css" href="css/css.css"/><link rel="stylesheet" type="text/css" href="css/glowtabs.css"/><link rel="stylesheet" href="css/slider.css" type="text/css" media="screen"/>
     <link rel="stylesheet" href="css/slider2.css" type="text/css" media="screen"/>
     <script src="css/js/jquery-1.9.1.js"></script>
   <script src="css/js/jquery-ui.js"></script>
@@ -67,10 +67,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="topNav">
    
     <ul id="jDropDown">
-      <li><a href="index.html">Home</a></li><li>|</li><li><a href="about-ADIB – Abu Dhabi.html">About ADIB Egypt</a>
+      <li><a href="index.html">Home</a></li><li>|</li><li><a href="about-ADIB – Abu Dhabi.html">About ADIB UAE</a>
        <div class="column_2">
         <ul>
-          <li><a href="about-ADIB – Abu Dhabi/about-ADIB – Abu Dhabi.html">About ADIB Egypt </a></li>
+          <li><a href="about-ADIB – Abu Dhabi/about-ADIB – Abu Dhabi.html">About ADIB UAE </a></li>
           <li><a href="about-ADIB – Abu Dhabi/vision-mission.html">Vision & Mission </a></li>
             <li><a href="about-ADIB – Abu Dhabi/board-of-directors.html">Board of Directors </a></li>
             <li><a href="about-ADIB – Abu Dhabi/corporate-values.html">Corporate Values </a></li>
@@ -98,7 +98,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div id="LeftSide">
               <div class="CurrentContent ">  
 
-  <h1>News</h1><div class="newsinfo"><img src="media/26071/arish-branch-event-r.jpg" /><h3 class="Currentadv"><a href="news/arish-branch-event.html">Arish Branch Event</a></h3><span class="date">08-05-2012</span><p>ADIB Egypt responds to questions at a Seminar in Arish as part of the bank’s series of meetings to spread Awareness of Islamic Banking</p></div><div class="newsinfo"><img src="media/23510/islamic-bank.jpg" /><h3 class="Currentadv"><a href="news/best-islamic-private-bank.html">Best Islamic Private Bank</a></h3><span class="date">08-03-2012</span><p>As part of its ongoing progress, ADIB Egypt received Best Islamic Bank in Egypt award</p></div><div class="newsinfo"><img src="media/23279/arb.jpg" /><h3 class="Currentadv"><a href="news/hr-360-conference-and-adib-at-work.html">HR 360 Conference and ADIB @Work</a></h3><span class="date">08-02-2012</span><p>Effective participation for ADIB Egypt in 360 HR Conference
+  <h1>News</h1><div class="newsinfo"><img src="media/26071/arish-branch-event-r.jpg" /><h3 class="Currentadv"><a href="news/arish-branch-event.html">Arish Branch Event</a></h3><span class="date">08-05-2012</span><p>ADIB UAE responds to questions at a Seminar in Arish as part of the bank’s series of meetings to spread Awareness of Islamic Banking</p></div><div class="newsinfo"><img src="media/23510/islamic-bank.jpg" /><h3 class="Currentadv"><a href="news/best-islamic-private-bank.html">Best Islamic Private Bank</a></h3><span class="date">08-03-2012</span><p>As part of its ongoing progress, ADIB UAE received Best Islamic Bank in UAE award</p></div><div class="newsinfo"><img src="media/23279/arb.jpg" /><h3 class="Currentadv"><a href="news/hr-360-conference-and-adib-at-work.html">HR 360 Conference and ADIB @Work</a></h3><span class="date">08-02-2012</span><p>Effective participation for ADIB UAE in 360 HR Conference
 Launch of ADIB@Work Banking Solutions for Company Employees </p></div><div class="pager"><ul><li><a href="news9ad1.aspx?Page=10">previous</a></li><li><a href="news8654.html?Page=1">1</a></li><li><a href="newse7bc.aspx?Page=2">2</a></li><li><a href="newsbbd5.aspx?Page=3">3</a></li><li><a href="news587a.aspx?Page=4">4</a></li><li><a href="news4c20.aspx?Page=5">5</a></li><li><a href="news9917.aspx?Page=6">6</a></li><li><a href="news2d09.aspx?Page=7">7</a></li><li><a href="news86ea.aspx?Page=8">8</a></li><li><a href="newsdd0b.aspx?Page=9">9</a></li><li><a href="news9ad1.aspx?Page=10">10</a></li><li class="act"><span>11</span></li><li><a href="news14cb.aspx?Page=12">12</a></li><li><a href="news5c93.aspx?Page=13">13</a></li><li><a href="newse464.aspx?Page=14">14</a></li><li><a href="news14cb.aspx?Page=12">next</a></li></ul></div>
                 <div class="FooterAdv"><a href='wholesale-banking/corporate-banking-part.html'><p class="reImgeImg"><img src="images/AccountsAdv.jpg" width="183" height="131" alt="Corporate Banking"/></p>
 <h3 class="Currentadv">Corporate Banking</h3>

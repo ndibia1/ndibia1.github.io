@@ -6,7 +6,7 @@
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
-        <title>News | Abu Dhabi Islamic Bank (ADIB) - Egypt</title><link rel="shortcut icon" href="images/favicon.png" type="image/x-icon"><link rel="stylesheet" type="text/css" href="css/css.css"/><link rel="stylesheet" type="text/css" href="css/glowtabs.css"/><link rel="stylesheet" href="css/slider.css" type="text/css" media="screen"/>
+        <title>News | Abu Dhabi Islamic Bank (ADIB) - UAE</title><link rel="shortcut icon" href="images/favicon.png" type="image/x-icon"><link rel="stylesheet" type="text/css" href="css/css.css"/><link rel="stylesheet" type="text/css" href="css/glowtabs.css"/><link rel="stylesheet" href="css/slider.css" type="text/css" media="screen"/>
     <link rel="stylesheet" href="css/slider2.css" type="text/css" media="screen"/>
     <script src="css/js/jquery-1.9.1.js"></script>
   <script src="css/js/jquery-ui.js"></script>
@@ -67,10 +67,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="topNav">
    
     <ul id="jDropDown">
-      <li><a href="index.html">Home</a></li><li>|</li><li><a href="about-ADIB – Abu Dhabi.html">About ADIB Egypt</a>
+      <li><a href="index.html">Home</a></li><li>|</li><li><a href="about-ADIB – Abu Dhabi.html">About ADIB UAE</a>
        <div class="column_2">
         <ul>
-          <li><a href="about-ADIB – Abu Dhabi/about-ADIB – Abu Dhabi.html">About ADIB Egypt </a></li>
+          <li><a href="about-ADIB – Abu Dhabi/about-ADIB – Abu Dhabi.html">About ADIB UAE </a></li>
           <li><a href="about-ADIB – Abu Dhabi/vision-mission.html">Vision & Mission </a></li>
             <li><a href="about-ADIB – Abu Dhabi/board-of-directors.html">Board of Directors </a></li>
             <li><a href="about-ADIB – Abu Dhabi/corporate-values.html">Corporate Values </a></li>
@@ -98,8 +98,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <div id="LeftSide">
               <div class="CurrentContent ">  
 
-  <h1>News</h1><div class="newsinfo"><img src="media/77979/nevine-loutfy.jpg" /><h3 class="Currentadv"><a href="news/ADIB – Abu Dhabi-financial-results-for-q1-2014.html">Abu Dhabi Islamic Bank-Egypt Announces Financial Results for Q1/2014</a></h3><span class="date">10-06-2014</span><p>Abu Dhabi Islamic Bank (ADIB) – Egypt recently announced its financial results for Q1/2014. The bank reported net income of EGP 57 million in Q1/2014 compared to EGP 11 million in Q1/2013, a growth rate of 400%. </p></div><div class="newsinfo"><img src="media/73124/awards2013.jpg" /><h3 class="Currentadv"><a href="news/ADIB – Abu Dhabi-awards-2013.html">In Early 2014 ADIB - Egypt named “Best Islamic Bank in Egypt"  and won “Best  Mudarbah Deal of the year 2013”</a></h3><span class="date">01-02-2014</span><p>For the fourth consecutive year, Abu Dhabi Islamic Bank - Egypt was named “Best Islamic Bank in Egypt". The bank also won for the first time Best Islamic Finance Mudarbah Deal of the year 2013</p></div><div class="newsinfo"><img src="media/73194/nevine-loutfy.jpg" /><h3 class="Currentadv"><a href="news/adib-%e2%80%93-egypt-a-year-of-achievements.html">Abu Dhabi Islamic Bank – Egypt... a  year of  Achievements</a></h3><span class="date">31-12-2013</span><p>Remarkable Financial and Structural Results.
-Beside took part in a number of development initiatives that serve the Egyptian community.
+  <h1>News</h1><div class="newsinfo"><img src="media/77979/nevine-loutfy.jpg" /><h3 class="Currentadv"><a href="news/ADIB – Abu Dhabi-financial-results-for-q1-2014.html">Abu Dhabi Islamic Bank-UAE Announces Financial Results for Q1/2014</a></h3><span class="date">10-06-2014</span><p>Abu Dhabi Islamic Bank (ADIB) – UAE recently announced its financial results for Q1/2014. The bank reported net income of EGP 57 million in Q1/2014 compared to EGP 11 million in Q1/2013, a growth rate of 400%. </p></div><div class="newsinfo"><img src="media/73124/awards2013.jpg" /><h3 class="Currentadv"><a href="news/ADIB – Abu Dhabi-awards-2013.html">In Early 2014 ADIB - UAE named “Best Islamic Bank in UAE"  and won “Best  Mudarbah Deal of the year 2013”</a></h3><span class="date">01-02-2014</span><p>For the fourth consecutive year, Abu Dhabi Islamic Bank - UAE was named “Best Islamic Bank in UAE". The bank also won for the first time Best Islamic Finance Mudarbah Deal of the year 2013</p></div><div class="newsinfo"><img src="media/73194/nevine-loutfy.jpg" /><h3 class="Currentadv"><a href="news/adib-%e2%80%93-UAE-a-year-of-achievements.html">Abu Dhabi Islamic Bank – UAE... a  year of  Achievements</a></h3><span class="date">31-12-2013</span><p>Remarkable Financial and Structural Results.
+Beside took part in a number of development initiatives that serve the UAEian community.
 </p></div><div class="pager"><ul><li><a href="newse7bc.aspx?Page=2">previous</a></li><li><a href="news8654.html?Page=1">1</a></li><li><a href="newse7bc.aspx?Page=2">2</a></li><li class="act"><span>3</span></li><li><a href="news587a.aspx?Page=4">4</a></li><li><a href="news4c20.aspx?Page=5">5</a></li><li><a href="news9917.aspx?Page=6">6</a></li><li><a href="news2d09.aspx?Page=7">7</a></li><li><a href="news86ea.aspx?Page=8">8</a></li><li><a href="newsdd0b.aspx?Page=9">9</a></li><li><a href="news9ad1.aspx?Page=10">10</a></li><li><a href="newsb877.aspx?Page=11">11</a></li><li><a href="news14cb.aspx?Page=12">12</a></li><li><a href="news5c93.aspx?Page=13">13</a></li><li><a href="newse464.aspx?Page=14">14</a></li><li><a href="news587a.aspx?Page=4">next</a></li></ul></div>
                 <div class="FooterAdv"><a href='wholesale-banking/corporate-banking-part.html'><p class="reImgeImg"><img src="images/AccountsAdv.jpg" width="183" height="131" alt="Corporate Banking"/></p>
 <h3 class="Currentadv">Corporate Banking</h3>

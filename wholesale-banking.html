@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
   
   <meta name="description" content="ADIB UAE's wholesale Banking Group offers a full array of fully shari’a compliant financial products and services "/>
-  <title>Wholesale Banking | Abu Dhabi Islamic Bank (ADIB) - Egypt</title>
+  <title>Wholesale Banking | Abu Dhabi Islamic Bank (ADIB) - UAE</title>
   <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
   
   <link rel="stylesheet" type="text/css" href="css/css.css"/>
@@ -110,10 +110,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <div class="topNav">
    
     <ul id="jDropDown">
-      <li><a href="index.html">Home</a></li><li>| </li><li><a href="about-ADIB – Abu Dhabi.html">About ADIB Egypt</a>
+      <li><a href="index.html">Home</a></li><li>| </li><li><a href="about-ADIB – Abu Dhabi.html">About ADIB UAE</a>
        <div class="column_2">
         <ul>
-          <li><a href="about-ADIB – Abu Dhabi/about-ADIB – Abu Dhabi.html">About ADIB Egypt </a></li>
+          <li><a href="about-ADIB – Abu Dhabi/about-ADIB – Abu Dhabi.html">About ADIB UAE </a></li>
           <li><a href="about-ADIB – Abu Dhabi/vision-mission.html">Vision & Mission </a></li>
             <li><a href="about-ADIB – Abu Dhabi/board-of-directors.html">Board of Directors </a></li>
             <li><a href="about-ADIB – Abu Dhabi/corporate-values.html">Corporate Values </a></li>
@@ -127,7 +127,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <DIV class="tabcontainer"><div id="gc1" class="tabcontent"><br /><!--<p><a href="/treasury/foreign-exchange">Foreign Exchange</a> <a href="/treasury/fixed-income">Fixed Income</a> <a href="/treasury/islamic-derivatives-and-risk-mitigants">Islamic Derivatives &amp; Risk Mitigants</a> <a href="/treasury/market-analysis-updates">Market Analysis Updates</a></p>--></div><div id="gc2" class="tabcontent"></div><div id="gc3" class="tabcontent"><p><a href="business-banking/adib-business-banking.html" title="ADIB Business Banking">ADIB Business Banking</a> <a href="business-banking/business-financing.html" title="Business Financing">Business Banking Financing</a></p></div><div id="gc4" class="tabcontent"><p><a href="personal-banking/ADIB-Smart.html">ADIB SMART</a> <a href="personal-banking/cash-back-card.html">Cash Back Card</a> <a href="personal-banking/accounts.html">Accounts</a> <a href="personal-banking/sukuk.html">Deposit Options</a> <a href="personal-banking/financing-options.html">Financing Options</a> <a href="personal-banking/charitable-accounts.html">Charitable Accounts</a> <a href="personal-banking/sanabel.html">Sanabel</a></p></div></DIV><div class="NavBar"><a href="index.html">Home ></a>Wholesale Banking</div><div id="LeftSide"><div class="AccountsBanner">
 <p class="reImgeImg"><img src="images/corporate.jpg" width="370" height="159" alt="Wholesale Banking"/></p>
 <h1 class="AccountsBN">Wholesale Banking</h1>
-<p>Enjoy efficient service, convenient banking products and great value-added services with every account you choose from ADIB Egypt.</p>
+<p>Enjoy efficient service, convenient banking products and great value-added services with every account you choose from ADIB UAE.</p>
 </div>
             <div class="CurrentContent ">
            
@@ -168,7 +168,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li><a href="/wholesale-banking/receivables-collection-management">Receivables &amp; Collection Management</a></li>
 </ul>-->
 <h1>Corporate Finance</h1>
-<p>To fulfill our customers’ needs, in addition to financing products; ADIB Egypt also offers a full suite of products and services in transaction banking, project finance advisory, syndications, structured finance and other structured solutions that are Shari'a compliant</p>
+<p>To fulfill our customers’ needs, in addition to financing products; ADIB UAE also offers a full suite of products and services in transaction banking, project finance advisory, syndications, structured finance and other structured solutions that are Shari'a compliant</p>
 <ul style="padding-bottom: 7px;">
 <li><a href="wholesale-banking/corporate-finance.html">Corporate Finance</a></li>
 </ul>

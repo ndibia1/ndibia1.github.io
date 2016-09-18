@@ -4,9 +4,9 @@
 <head>
 <meta name="robots" content="index, follow" />
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
-  <meta name="keywords" content="Savings Account, Savings, Account, Investment Account, Current Account, UAE-Egypt Account, Investment, deposit account, credit balance, deposited funds, Mudaraba, Send money to Egypt for free, Tiered Monthly Saving Account"/>
-  <meta name="description" content="Enjoy efficient, convenient banking products and great value-added services with every account you choose from ADIB Egypt."/>
-  <title>Accounts | Abu Dhabi Islamic Bank (ADIB) - Egypt</title>
+  <meta name="keywords" content="Savings Account, Savings, Account, Investment Account, Current Account, UAE-UAE Account, Investment, deposit account, credit balance, deposited funds, Mudaraba, Send money to UAE for free, Tiered Monthly Saving Account"/>
+  <meta name="description" content="Enjoy efficient, convenient banking products and great value-added services with every account you choose from ADIB UAE."/>
+  <title>Accounts | Abu Dhabi Islamic Bank (ADIB) - UAE</title>
   <link rel="shortcut icon" href="../images/favicon.png" type="image/x-icon">
   
   <link rel="stylesheet" type="text/css" href="../css/css.css"/>
@@ -110,10 +110,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <div class="topNav">
    
     <ul id="jDropDown">
-      <li><a href="../index.html">Home</a></li><li>| </li><li><a href="../about-ADIB – Abu Dhabi.html">About ADIB Egypt</a>
+      <li><a href="../index.html">Home</a></li><li>| </li><li><a href="../about-ADIB – Abu Dhabi.html">About ADIB UAE</a>
        <div class="column_2">
         <ul>
-          <li><a href="../about-ADIB – Abu Dhabi/about-ADIB – Abu Dhabi.html">About ADIB Egypt </a></li>
+          <li><a href="../about-ADIB – Abu Dhabi/about-ADIB – Abu Dhabi.html">About ADIB UAE </a></li>
           <li><a href="../about-ADIB – Abu Dhabi/vision-mission.html">Vision & Mission </a></li>
             <li><a href="../about-ADIB – Abu Dhabi/board-of-directors.html">Board of Directors </a></li>
             <li><a href="../about-ADIB – Abu Dhabi/corporate-values.html">Corporate Values </a></li>
@@ -131,7 +131,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </a>Accounts</div><div id="LeftSide"><div class="AccountsBanner">
 <p class="reImgeImg"><img src="../images/AccountsB.jpg" width="370" height="159" alt="ADIB Accounts"/></p>
 <h1 class="AccountsBN">Accounts</h1>
-<p>Enjoy efficient service, convenient banking products and great value-added services with every account you choose from ADIB Egypt.</p>
+<p>Enjoy efficient service, convenient banking products and great value-added services with every account you choose from ADIB UAE.</p>
 </div>
             <div class="CurrentContent ">
            
@@ -169,9 +169,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="AccountBox">
 <div class="ATop"></div>
 <div class="AccountDes">
-<h2>ADIB UAE-Egypt Account</h2>
-<p>Send money to Egypt for free, with ADIB UAE-Egypt Account.</p>
-<div class="MoreAccount"><a href="accounts/adib-uae-egypt-account">Click here to know more</a></div>
+<h2>ADIB UAE-UAE Account</h2>
+<p>Send money to UAE for free, with ADIB UAE-UAE Account.</p>
+<div class="MoreAccount"><a href="accounts/adib-uae-UAE-account">Click here to know more</a></div>
 </div>
 <div class="ABot"></div>
 </div>
