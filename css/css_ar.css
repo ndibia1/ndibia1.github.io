@@ -1,0 +1,2037 @@
+@charset "utf-8";
+
+* {
+  margin: 0;
+  padding: 0
+}
+body {
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  font-family: tahoma;
+  font-size: 12px;
+  color: #575757
+}
+.clear:after, .topNav:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0
+}
+a img {
+  border: 0
+}
+a {
+  text-decoration: none
+}
+html, body, div, span, iframe, h3, h2, h1, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption, {
+margin:0;
+padding:0;
+border:0;
+outline:0;
+background:transparent
+}
+table {
+  padding: 5px;
+  margin: 5px
+}
+table td {
+  line-height: 18px
+}
+body {
+  line-height: 1
+}
+ol, ul {
+  list-style-type: none;
+  list-style-position: outside;
+  margin: 0 0 0 10px
+}
+ul li {
+  line-height: 18px;
+  list-style-position: outside;
+  padding: 0px 20px 5px 0;
+  background: url(../images_ar/arrowright.png) no-repeat scroll right 0 transparent
+}
+ul li strong {
+  line-height: 18px
+}
+blockquote, q {
+  quotes: none
+}
+blockquote:before, blockquote:after, q:before, q:after {
+  content: '';
+  content: none
+}
+:focus {
+  outline: 0
+}
+ins {
+  text-decoration: none
+}
+del {
+  text-decoration: line-through
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0
+}
+a {
+  color: #032c6a
+}
+h3 {
+  color: #009fe6
+}
+#wrapper {
+  clear: both;
+  margin: 0 auto;
+  width: 993px;
+  padding: 0
+}
+#contsWrap {
+  clear: both;
+  width: 979px;
+  padding: 0;
+  overflow: hidden;
+  margin: 0 auto
+}
+#headerwrap {
+  float: left;
+  width: 979px;
+  height: 79px;
+  position: relative
+}
+#Nbd_Logo {
+  float: right;
+  margin: 18px 0 0;
+  text-align: left
+}
+#Nbd_Logo span {
+  font-size: 3.5em;
+  font-weight: bold;
+  height: 80px;
+  letter-spacing: -2px;
+  line-height: 1em;
+  margin-top: 0;
+  width: 330px
+}
+#Nbd_Logo span a {
+  background: url(../images_ar/NBDLogo.jpg) no-repeat scroll left top transparent;
+  display: block;
+  height: 45px;
+  line-height: 51px;
+  text-decoration: none;
+  text-indent: -9000px;
+  width: 264px
+}
+.topNav {
+  width: 700px;
+  margin: 0 2px 0 0;
+  height: 30px;
+  float: left
+}
+.topNav ul {
+  margin: 0;
+  padding: 0
+}
+.topNav ul li {
+  float: right;
+  width: auto;
+  position: relative;
+  color: #000;
+  font-size: 9px;
+  padding: 0;
+  font-weight: normal;
+  background: 0 none
+}
+.topNav li a {
+  width: auto;
+  display: block;
+  color: #616161!important;
+  font-size: 11px;
+  margin: 0 4px;
+  padding: 0;
+  border: 1px solid #fff
+}
+.topNav li a:hover {
+  color: #063578;
+  border: 1px solid #21bcff
+}
+#LeftSide {
+  float: right;
+  width: 757px;
+  position: relative;
+  font-size: 12px;
+  //Z-index:-1;
+}
+P.Banking {
+  color: #22aeec;
+  display: block;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 8px 10px 0 0;
+  clear: both;
+  position: absolute;
+  right: 0;
+  top: 195px;
+}
+P.BankingMMF {
+  color: #22aeec;
+  display: block;
+  font-size: 14px;
+  line-height: 15px;
+  font-weight: bold;
+  padding: 8px 10 10 10px;
+  clear: both;
+  position: absolute;
+  right: 0;
+  top: 185px;
+  width:550px;
+}
+P.BankingMMF .red{
+  color: #ff0000;
+
+}
+.BoxAll {
+  float: left;
+  margin: 25px 0 10px 0;
+  width: 757px
+}
+.Box {
+  width: 185px;
+  float: right;
+  margin: 0 4px 0 0
+}
+.BoxTopLight {
+  background: url(../images_ar/arrowsAndButt.png) -734px -754px no-repeat;
+  width: 185px;
+  height: 45px
+}
+.BoxTop2 {
+  background: url(../images_ar/arrowsAndButt.png) -734px -754px no-repeat;
+  width: 185px;
+  height: 45px
+}
+.BoxTopLight span, .BoxTop2 span {
+  font-size: 14px;
+  line-height: 40px;
+  margin: 00 10px 0;
+  font-family: tahoma
+}
+.BoxTopLight span {
+  color: #009fe6
+}
+.BoxTop2 span {
+  color: #0070af
+}
+.BoxContent {
+  min-height: 150px;
+  float: left;
+  width: 183px;
+  border-left: 1px solid #d4f2f9;
+  border-right: 1px solid #d4f2f9
+}
+.BoxEnd {
+  background: url(../images_ar/arrowsAndButt.png) -967px -790px no-repeat;
+  height: 10px;
+  width: 185px;
+  float: left
+}
+.MoreBox {
+  height: 30px;
+  float: left;
+  width: 170px;
+  border-left: 1px solid #d4f2f9;
+  border-right: 1px solid #d4f2f9
+}
+.MoreBox a {
+  background: url(../images_ar/arrowsAndButt.png) 0 0 no-repeat;
+  width: 160px;
+  height: 26px;
+  display: block;
+  color: #fff;
+  line-height: 26px;
+  margin: 0;
+  padding: 0
+}
+.MoreBox2 {
+  height: 30px;
+  float: right;
+  width: 183px;
+  border-left: 1px solid #d4f2f9;
+  border-right: 1px solid #d4f2f9
+}
+.MoreBox2 a {
+  background: url(../images_ar/arrowsAndButt.png) 0 0 no-repeat;
+  width: 160px;
+  height: 27px;
+  display: block;
+  color: #fff;
+  line-height: 26px;
+  margin: 0 6px 0 0;
+  padding: 0 10px 0 0;
+  font-size: 10px
+}
+.BoxContent ul {
+  list-style: none;
+  margin: 10px;
+  float: right
+}
+.BoxContent ul li {
+  list-style: none;
+  background: url(../images_ar/Arrow.gif) right 7px no-repeat;
+  padding: 0 10px 0 0;
+  line-height: 18px
+}
+.BoxContent ul li a {
+  font-family: tahoma;
+  font-weight: normal
+}
+.RightSide {
+  float: left;
+  width: 198px
+}
+.Ways {
+  background: url(../images_ar/arrowsAndButt.png) -329px -763px no-repeat;
+  height: 40px;
+  line-height: 35px;
+  margin: 0;
+  padding: 0;
+  width: 198px;
+  float: left
+}
+.CallUs {
+  background: #d4f2f9 url(../images_ar/arrowsAndButt.png) right -774px no-repeat;
+  width: 198px;
+  float: left;
+  color: #034896;
+  font-size: 12px
+}
+.CallUs ul {
+  list-style: none;
+  margin: 28px 10px 10px 10px;
+  float: right
+}
+.CallUs ul li {
+  list-style: none;
+  background: url(../images_ar/arrowsAndButt.png) right -120px no-repeat;
+  padding: 0 15px 0 0;
+  line-height: 17px
+}
+.CallUs ul li b, .CallUs ul li strong {
+  font-size: 15px;
+  font-weight: bold
+}
+.CallUs ul li a {
+  font-family: tahoma;
+  font-weight: normal;
+  color: #034896;
+  display: block;
+  line-height: 23px
+}
+.CallUsLink {
+  font-family: tahoma;
+  font-weight: normal;
+  color: #034896;
+  background: url(../images_ar/arrowsAndButt.png) -1375px -244px no-repeat;
+  display: block;
+  width: 165px;
+  line-height: 23px
+}
+.CallUs ul li p.reImge {
+  background: url(../images_ar/arrowsAndButt.png) no-repeat -529px -727px;
+  height: 73px;
+  text-align: left;
+  margin: 8px -15px 8px 0
+}
+.Map {
+  background: url(../images_ar/Map_Loc.jpg) 0 0 repeat-x;
+  height: 19px;
+  width: 198px;
+  float: left;
+  display: none
+}
+.Map a {
+  color: #fff;
+  margin: 0 0 0 15px;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 15px
+}
+.Adv {
+  float: left;
+  margin: 8px 0;
+  width: 196px;
+  border: 1px solid #a8d5df;
+  text-align: center
+}
+.NewsSection {
+  float: left;
+  width: 979px;
+  background: #e5e5e5;
+  margin: 10px 0
+}
+.Newsupdates {
+  float: left;
+  width: 308px;
+  margin: 15px 15px 0 0;
+  padding: 0 0 15px 0
+}
+.All {
+  float: left
+}
+.All a {
+  font-family: tahoma;
+  font-weight: bold;
+  color: #575757;
+  display: block;
+  line-height: 20px;
+  font-size: 11px
+}
+.All img {
+  float: left;
+  border: 1px solid #a8d5df
+}
+.NewsDes {
+  width: 214px
+}
+.NewsDes h2 {
+  color: #22aeec;
+  font-size: 13px;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase
+}
+.NewsDes ul {
+  list-style: none;
+  margin: 10px 0;
+  float: right;
+  font-size: 12px;
+  font-family: tahoma
+}
+.NewsDes ul li {
+  list-style: none;
+  background: 0 none;
+  line-height: 18px;
+  width: 220px;
+  padding: 0!important;
+  margin: 0!important
+}
+.NewsDes ul li b, .NewsDes ul li strong {
+  font-size: 12px;
+  font-weight: bold;
+  display: inline-block;
+  margin: 0 0 0 15px
+}
+.NewsDes ul li a {
+  font-family: tahoma;
+  font-weight: normal;
+  color: #575757;
+  display: block;
+  width: 200px;
+  line-height: 20px
+}
+.NewsDes ul li a:hover {
+  color: #6c6c6c
+}
+.BgFooter {
+  background: #009fe6;
+  height: 20px;
+  margin: 0;
+  width: 100%;
+  float: left
+}
+.FooterLinks, .CopyRight {
+  margin: 8px 0;
+  width: 300px;
+  font-size: 12px;
+  color: #616161
+}
+.FooterLinks {
+  float: right
+}
+.CopyRight {
+  float: left;
+  text-align: left
+}
+.FooterLinks a, .CopyRight a {
+  color: #616161
+}
+.NavBar {
+  font-size: 12px;
+  color: #666;
+  z-index: 100;
+  height: 20px;
+  float: right;
+  width: 100%
+}
+.NavBar a {
+  font-size: 11px;
+  color: #666;
+  font-weight: bold;
+  float: right
+}
+.CurrentBanner {
+  width: 757px;
+  float: left;
+  background: url(../images_ar/CurrentBannerBg.gif) 0 0 repeat-x;
+  height: 160px
+}
+.CurrentBanner img {
+  float: right;
+  margin: 11px 0 0 30px
+}
+.CurrentBanner p {
+  margin: 10px 15px 0 0;
+  color: #575757;
+  line-height: 18px;
+  display: block
+}
+.CurrentBanner h1.CurrentBN {
+  font-size: 20px;
+  margin: 30px 0 0 0;
+  color: #009fe6;
+  font-weight: normal;
+  text-transform: uppercase;
+  font-family: tahoma, Helvetica, sans-serif
+}
+.CurrentContent {
+  float: left;
+  width: 757px;
+  margin: 15px 0 0 0
+}
+.CurrentLeft {
+  width: 450px;
+  float: left
+}
+.CurrentLeft h3 {
+  font-family: verdana;
+  font-size: 18px;
+  font-weight: normal;
+  margin: 0 0 15px 0
+}
+.CurrentLeft p {
+  line-height: 18px;
+  width: 450px;
+  display: block
+}
+.CurrentLeft b, .CurrentLeft strong {
+  width: 450px;
+  margin: 5px 0 5px 0;
+  display: block
+}
+.CurrentLeft ul {
+  list-style: square;
+  margin: 10px 0;
+  float: left;
+  font-size: 12px;
+  font-family: tahoma
+}
+.CurrentLeft ul li {
+  list-style-type: square;
+  background: 0 none;
+  line-height: 18px;
+  width: 430px;
+  list-style-position: inside
+}
+.CurrentRight {
+  width: 285px;
+  float: left
+}
+.CurrentRight .What {
+  background: #f6f6f6 url(../images_ar/WhatBg.gif) 0 0 no-repeat;
+  float: left;
+  width: 285px;
+  min-height: 185px
+}
+.CurrentRight .What h3 {
+  font-family: tahoma;
+  font-size: 18px;
+  font-weight: normal;
+  margin: 30px 10px 15px 0
+}
+.CurrentRight .What ul {
+  list-style: disc;
+  margin: 10px 10px 0 30px;
+  float: left;
+  font-size: 12px;
+  font-family: tahoma
+}
+.CurrentRight .What ul li {
+  list-style-type: disc;
+  background: 0 none;
+  line-height: 18px;
+  width: 230px;
+  list-style-position: inside;
+  padding: 0
+}
+.RightSide .Schedule {
+  width: 198px;
+  background: url(../images_ar/Strip.png) 0 -400px repeat-x #DFF5FB;
+  min-height: 100px;
+  margin: 0;
+  float: left
+}
+.RightSide .Schedule h3 {
+  font-family: tahoma;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 15px 9px 0 0
+}
+.RightSide .Schedule p {
+  margin: 9px 9px 0 10px;
+  line-height: 18px;
+  font-size: 11px
+}
+.MoreSchedule {
+  height: 28px;
+  float: right;
+  width: 170px;
+  margin: 5px
+}
+.MoreSchedule a {
+  background: url(../images_ar/arrowsAndButt.png) 0 0 no-repeat;
+  width: 170px;
+  height: 26px;
+  display: block;
+  color: #fff;
+  line-height: 25px;
+  margin: 0 0 0 5px;
+  padding: 0 0 0 4px;
+  font-size: 12px;
+  text-align: center
+}
+.FooterAdv {
+  width: 757px;
+  background: #d6e8f2;
+  height: 133px;
+  margin: 10px 0 10px 0;
+  clear: both
+}
+.FooterAdv img {
+  float: right;
+  margin: 0 0 0 20px;
+  width: 184px;
+  height: 131px;
+  border: 1px solid #aad6e0;
+  padding: 0
+}
+.FooterAdv p {
+  margin: 7px 0 0 15px!important;
+  color: #575757;
+  line-height: 17px;
+  display: block;
+  font-family: tahoma;
+  width: 530px;
+  float: right
+}
+.FooterAdv h3.Currentadv {
+  font-size: 16px;
+  margin: 8px 0 0 0;
+  color: #009fe6;
+  font-weight: normal;
+  font-family: tahoma, Helvetica, sans-serif;
+  float: right
+}
+p.reImgeImg {
+  margin: 0!important;
+  padding: 0!important;
+  width: auto!important
+}
+.personalBanner {
+  width: 757px;
+  float: left;
+  background: #019fe6;
+  height: 160px
+}
+.personalBanner img {
+  float: right;
+  margin: 0;
+  padding: 0
+}
+.personalBanner p {
+  margin: 10px 15px 0 10px;
+  color: #fff;
+  line-height: 18px;
+  display: block;
+  width: 240px;
+  padding: 0;
+  float: right
+}
+.personalBanner h1.personalBN {
+  font-size: 20px;
+  margin: 20px 15px 0 10px;
+  color: #fff;
+  font-weight: normal;
+  text-transform: uppercase;
+  font-family: tahoma, Helvetica, sans-serif;
+  width: 230px;
+  line-height: 20px;
+  float: right
+}
+.PersonalBlocks {
+  width: 757px;
+  float: left
+}
+.Block {
+  width: 235px;
+  float: right;
+  margin: 0 10px 10px 3px;
+  height: 241px
+}
+.Block h3 {
+  border-bottom: 8px solid #009fe6;
+  color: #009fe6;
+  font-size: 14px;
+  font-weight: bold;
+  height: 20px;
+  text-transform: uppercase;
+  padding-top: 5px
+}
+.Block p {
+  font-size: 12px;
+  margin: 10px 0;
+  float: right;
+  line-height: 18px
+}
+.Block ul {
+  list-style: disc;
+  margin: 0;
+  float: left;
+  font-size: 12px;
+  font-family: tahoma
+}
+.Block ul li {
+  list-style-type: disc;
+  background: 0 none;
+  line-height: 18px;
+  width: 222px;
+  list-style-position: inside;
+  color: #009fe6;
+  padding: 0
+}
+.Block ul li a {
+  text-decoration: underline;
+  color: #616161
+}
+.AccountsBanner {
+  width: 757px;
+  float: left;
+  background: #019fe6;
+  height: 159px
+}
+.AccountsBanner img {
+  float: right;
+  margin: 0;
+  padding: 0
+}
+.AccountsBanner p {
+  margin: 10px 15px 0 10px;
+  color: #fff;
+  line-height: 18px;
+  display: block;
+  width: 280px;
+  padding-left: 15px;
+  float: right
+}
+.AccountsBanner h1.AccountsBN {
+  font-size: 20px;
+  margin: 20px 15px 0 10px;
+  color: #fff;
+  font-weight: normal;
+  text-transform: uppercase;
+  font-family: tahoma, Helvetica, sans-serif;
+
+  line-height: 20px;
+  padding-left: 15px;
+  float: right
+}
+.AccountBox {
+  width: 358px;
+  float: right;
+  margin: 0 0 20px 20px
+}
+.ATop {
+  background: url(../images_ar/arrowsAndButt.png) -755px 0 no-repeat;
+  width: 358px;
+  height: 10px
+}
+.ABot {
+  background: url(../images_ar/arrowsAndButt.png) -377px 0 no-repeat;
+  width: 358px;
+  height: 10px;
+  float: left
+}
+.AccountDes {
+  border-left: 1px solid #019fe6;
+  border-right: 1px solid #019fe6;
+  height: 145px;
+  width: 356px;
+  float: left
+}
+.AccountDes p {
+  font-size: 12px;
+  margin: 10px 20px!Important;
+  float: right;
+  line-height: 17px;
+  height: 35px;
+  color: #616161
+}
+.txt {
+  height: 48px!Important
+}
+.AccountDes h2 {
+  font-size: 18px;
+  margin: 10px 15px 0 10px;
+  padding-left: 10px;
+  color: #019fe6;
+  font-weight: bold;
+  font-family: tahoma, Helvetica, sans-serif;
+  line-height: 20px
+}
+.PromoDes {
+  border-left: 1px solid #019fe6;
+  border-right: 1px solid #019fe6;
+  height: 360px;
+  width: 356px;
+  float: left
+}
+.PromoDes p {
+  font-size: 12px;
+  margin: 10px 20px!Important;
+  float: right;
+  line-height: 17px;
+  height: 35px;
+  color: #616161
+}
+.PromoDes h2 {
+  font-size: 18px;
+  margin: 10px 15px 0 10px;
+  padding-left: 10px;
+  color: #019fe6;
+  font-weight: bold;
+  font-family: tahoma, Helvetica, sans-serif;
+  line-height: 20px
+}
+.ApplyBusiness a {
+  background: url(../images_ar/arrowsAndButt.png) -109px -778px no-repeat;
+  width: 167px;
+  height: 22px;
+  display: block;
+  color: #02417f;
+  line-height: 21px;
+  margin: 0 0 0 3px;
+  padding: 0 0 0 10px;
+  float: left;
+  font-size: 12px;
+  text-align: center;
+}
+.ApplyBusiness {
+  margin: 20px 0 0 10px
+}
+.MoreAccount a {
+  background: url(../images_ar/arrowsAndButt.png) -109px -778px no-repeat;
+  width: 167px;
+  height: 22px;
+  display: block;
+  color: #02417f;
+  line-height: 21px;
+  margin: 0 0 0 3px;
+  padding: 0 0 0 10px;
+  float: left;
+  font-size: 12px;
+  text-align: center
+}
+.MoreAccount {
+  margin: 70px 0 0 10px
+}
+.MorePromo a {
+  background: url(../images_ar/arrowsAndButt.png) -109px -778px no-repeat;
+  width: 167px;
+  height: 22px;
+  display: block;
+  color: #02417f;
+  line-height: 21px;
+  margin: 0 0 0 3px;
+  padding: 0 0 0 10px;
+  float: left;
+  font-size: 12px;
+  text-align: center
+}
+.MorePromo {
+  margin: 300px 0 0 16px
+}
+.CurrentContent h1 {
+  color: #0081c8;
+  font-size: 25px;
+  font-weight: normal;
+  margin: 0;
+  padding: 0 0 6px;
+  text-transform: uppercase;
+  border-bottom: 8px solid #0081c8;
+  font-family:arial
+}
+.CurrentContent p {
+  line-height: 18px;
+  margin: 5px 0;
+  display: block
+}
+.CurrentContent p.Contact {
+  margin: 30px 0 60px 0;
+  line-height: 20px
+}
+.CurrentContent h4, .CurrentContent h5 {
+  font-size: 13px;
+  font-weight: bold;
+  margin: 15px 0;
+  display: block
+}
+.CurrentContent h5 {
+  color: #0188c5
+}
+.CurrentContent p a {
+  color: #009fe6;
+  font-size: 12px
+}
+.CurrentContent h5.blue {
+  font-size: 13px;
+  font-weight: bold;
+  margin: 15px 0;
+  display: block;
+  color: #fff;
+  background: #0688c6;
+  padding: 5px;
+  width: 90%
+}
+.Site {
+  width: 235px;
+  float: right;
+  margin: 25px 10px 10px 3px;
+  height: 200px
+}
+.Site h3 {
+  border-bottom: 5px solid #009fe6;
+  color: #009fe6;
+  font-size: 14px;
+  font-weight: normal;
+  height: 20px;
+  text-transform: uppercase
+}
+.Site p {
+  font-size: 12px;
+  margin: 10px 0;
+  float: left;
+  line-height: 17px
+}
+.Site ul {
+  list-style: disc;
+  margin: 10px 0 10px;
+  float: right;
+  font-size: 12px;
+  font-family: tahoma;
+  background: #ccecf9;
+  width: 225px;
+  padding: 5px;
+  min-height: 150px;
+  clear: both
+}
+.Site ul li {
+  background: none repeat scroll 0 50% transparent;
+  color: #009fe6;
+  line-height: 18px;
+  list-style-position: outside;
+  list-style-type: disc;
+  margin: 0 1.5em .25em 0;
+  padding: 0;
+  width: 210px;
+  font-size: 13px
+}
+.Site ul li a {
+  text-decoration: underline;
+  color: #575757
+}
+.Site ul li a:hover {
+  text-decoration: none
+}
+.msg_list {
+  margin: 0;
+  padding: 0;
+}
+.msg_head {
+  padding: 5px 10px;
+  cursor: pointer;
+  position: relative;
+  margin: 1px;
+  font-size: 12px;
+  color: #009fe6;
+}
+p.msg_head img {
+  position: relative;
+  margin: 1px 5px 0 0;
+}
+.msg_body {
+  padding: 5px 0px 0px;
+}
+.bod {
+  width: 30%;
+  float: right;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.bod img {
+  height: 115px;
+  width: 115px;
+  border: 1px solid #ccc;
+  clear: both;
+  margin: 0 auto;
+  float: none;
+  display: block
+}
+.bod p {
+  font-size: 12x;
+  color: #575757;
+  margin-top: 5px;
+  padding-top: 5px
+}
+.bod a {
+  clear: both;
+  color: #39c;
+  margin-top: 10px;
+  text-decoration: underline
+}
+.mainbox {
+  margin-top: 20px
+}
+.aboutboxs {
+  width: 232px;
+  float: right;
+  margin: 0 auto;
+  margin-left: 20px;
+  margin-bottom: 25px
+}
+.aboutboxs span {
+  color: #009fe6;
+  font-size: 14px;
+  border-bottom: 5px solid #009fe6;
+  padding-bottom: 5px;
+  display: block;
+  font-weight: bold
+}
+.aboutboxs img {
+  margin-top: 5px;
+  border: 1px solid #FFF
+}
+.aboutboxs img:hover {
+  border: 1px solid #009fe6
+}
+.aboutboxs a {
+  background: url(../images_ar/arrowsAndButt.png) no-repeat right -26px;
+  width: 78px;
+  height: 21px;
+  display: block;
+  color: #FFF;
+  font-size: 12px;
+  text-align: center;
+  padding-top: 3px;
+  margin-top: 5px
+}
+.CurrentContent span.head {
+  width: 98%;
+  display: block;
+  background-image: url(../images_ar/tab_stripBg.gif);
+  margin-top: 5px;
+  height: 37px
+}
+span.head a {
+  list-style: none;
+  background-color: #fff!important;
+  border-right: medium none;
+  border-top: 4px solid #009fe6;
+  color: #4b4b4b;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 8px 24px 0;
+  height: 25px;
+  width: 147px;
+  text-align: center;
+  display: block;
+  text-decoration: none
+}
+.CurrentContent h6 span {
+  font-size: 16px;
+  margin: 0;
+  border-bottom: 3px solid #009fe6;
+  vertical-align: top;
+  color: #009fe6;
+  float: left;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: tahoma, Helvetica, sans-serif;
+  width: 757px;
+  line-height: 20px;
+  margin-top: -20px
+}
+.CurrentContent h6 {
+  font-size: 16px;
+  margin: 0;
+  margin-top: 8px;
+  border-bottom: 3px solid #009fe6;
+  color: #009fe6;
+  float: left;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: tahoma, Helvetica, sans-serif;
+  width: 100%;
+  line-height: 20px
+}
+.finance {
+  width: 757px;
+  float: right
+}
+.finance p {
+  margin-top: 0;
+  line-height: 20px;
+  padding: 0
+}
+.finance img {
+  line-height: 20px;
+  background-color: #eee;
+  padding: 0 5px;
+  margin: 1px 1px 0
+}
+.download{
+  width: 757px;
+  float: right
+}
+.download p {
+  margin-top: 0;
+  line-height: 20px;
+  padding: 0
+}
+.download img {
+  line-height: 20px;
+  background-color: #eee;
+  padding: 0 5px;
+  margin: 1px 1px 0
+}
+.finance h3 {
+  text-indent: 5px;
+  font-family: "tahoma";
+  font-size: 13px!important;
+  background: url(../images_ar/arrowsAndButt.png) no-repeat scroll 15px -232px #EEEEEE;
+  width: 43px;
+  line-height: 20px;
+  margin: 1px;
+  float: right;
+  font-weight: normal;
+  text-transform: none;
+  color: #575757;
+  height: 21px;
+}
+.download h3 {
+  text-indent: 5px;
+  font-family: "tahoma";
+  font-size: 13px!important;
+  background: url(../images_ar/arrowsAndButt.png) no-repeat scroll 15px -232px #EEEEEE;
+  width: 43px;
+  line-height: 20px;
+  margin: 1px;
+  float: right;
+  font-weight: normal;
+  text-transform: none;
+  color: #575757;
+  height: 21px;
+}
+.finance h2 {
+  width: 210px;
+  text-indent: 5px;
+  line-height: 20px;
+  float: right;
+  padding: 1px;
+  font-family: "tahoma";
+  font-size: 13px!important;
+  background-color: #eee;
+  margin: 1px;
+  border: 0;
+  color: #575757;
+  font-weight: normal;
+  text-transform: none
+}
+.download h2 {
+  width: 550px;
+  text-indent: 5px;
+  line-height: 20px;
+  float: right;
+  padding: 1px;
+  font-family: "tahoma";
+  font-size: 13px!important;
+  background-color: #eee;
+  margin: 1px;
+  border: 0;
+  color: #575757;
+  font-weight: normal;
+  text-transform: none
+}
+.finance h1 {
+  text-indent: 5px;
+  width: 200px;
+  line-height: 20px;
+  float: right;
+  padding: 1px;
+  font-family: "tahoma";
+  font-size: 13px!important;
+  margin: 1px;
+  border: 0;
+  background-color: #eee;
+  color: #575757;
+  font-weight: normal;
+  text-transform: none
+}
+.finance h4 {
+  width: 170px;
+  text-indent: 5px;
+  line-height: 20px;
+  float: right;
+  padding: 1px;
+  font-family: "tahoma";
+  background-color: #eee;
+  font-size: 13px!important;
+  margin: 1px;
+  border: 0;
+  color: #575757;
+  font-weight: normal;
+  text-transform: none
+}
+.finance h5 {
+  width: 280px;
+  text-indent: 5px;
+  line-height: 20px;
+  float: right;
+  padding: 1px;
+  font-family: "tahoma";
+  font-size: 13px!important;
+  margin: 1px;
+  border: 0;
+  background-color: #eee;
+  font-weight: normal;
+  text-transform: none
+}
+.download h5 {
+  width: 150px;
+  text-indent: 5px;
+  line-height: 20px;
+  float: right;
+  padding: 1px;
+  font-family: "tahoma";
+  font-size: 13px!important;
+  margin: 1px;
+  border: 0;
+  background-color: #eee;
+  font-weight: normal;
+  text-transform: none
+}
+.finance h6 {
+  border: 0;
+  padding: 1px;
+  text-indent: 5px;
+  font-family: "tahoma";
+  font-size: 13px!important;
+  background-color: #eee;
+  width: 43px;
+  line-height: 20px;
+  margin: 1px;
+  float: right;
+  background-color: #eee;
+  font-weight: normal;
+  text-transform: none;
+  color: #575757
+}
+.finance a:hover {
+  text-decoration: underline;
+  color: #0188c5
+}
+.finance a {
+  color: #0188c5
+}
+.fine-title {
+  float: right;
+  margin-top: 50px;
+  border-bottom: 3px solid #009fe6;
+  color: #009fe6;
+  width: 100%;
+  padding: 0 0 10px 0
+}
+.fine-title h3 {
+  float: right;
+  margin-top: 50px;
+  font-size: 16px;
+  margin: 0;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: tahoma, Helvetica, sans-serif;
+  width: 70%
+}
+.fine-title .drop {
+  margin-bottom: 5px
+}
+.fine-title h2 {
+  padding-top: 5px;
+  float: right;
+  font-size: 12px;
+  margin: 0;
+  font-weight: bold;
+  text-transform: none;
+  font-family: tahoma, Helvetica, sans-serif;
+  border: 0;
+  width: 5%;
+  color: #575757
+}
+.fine-title img {
+  vertical-align: middle;
+  margin-bottom: 5px
+}
+.fine-title input {
+  padding-top: 5px;
+  padding-bottom: 0
+}
+.fine-title select {
+  float: right!important;
+  border: 1px solid #eee;
+  padding: 2px;
+  margin: 0 10px
+}
+.finance2 {
+  width: 757px;
+  float: right
+}
+.finance2 p {
+  line-height: 20px;
+  padding: 2px;
+  margin: 2px
+}
+.finance2 img {
+  line-height: 20px;
+  padding: 0 5px;
+  margin: 1px 1px 0
+}
+.download2 {
+  width: 757px;
+  float: right
+}
+.download2 p {
+  line-height: 20px;
+  padding: 2px;
+  margin: 2px
+}
+.download2 img {
+  line-height: 20px;
+  padding: 0 5px;
+  margin: 1px 1px 0
+}
+.finance2 h3 {
+  background: url(../images_ar/arrowsAndButt.png) no-repeat scroll 17px -230px;
+  padding: 1px;
+  font-family: "tahoma";
+  font-size: 13px!important;
+  width: 43px;
+  line-height: 20px;
+  margin: 1px;
+  float: right;
+  font-weight: normal;
+  text-transform: none;
+  color: #575757;
+  text-indent: 5px;
+  height: 21px
+}
+.download2 h3 {
+  background: url(../images_ar/arrowsAndButt.png) no-repeat scroll 17px -230px;
+  padding: 1px;
+  font-family: "tahoma";
+  font-size: 13px!important;
+  width: 43px;
+  line-height: 20px;
+  margin: 1px;
+  float: right;
+  font-weight: normal;
+  text-transform: none;
+  color: #575757;
+  text-indent: 5px;
+  height: 21px
+}
+.finance2 h2 {
+  width: 210px;
+  text-indent: 5px;
+  line-height: 20px;
+  float: right;
+  padding: 1px 1px 1px 0;
+  font-family: "tahoma";
+  font-size: 13px!important;
+  margin: 1px;
+  border: 0;
+  color: #575757;
+  font-weight: normal;
+  text-transform: none
+}
+.download2 h2 {
+  width: 550px;
+  text-indent: 5px;
+  line-height: 20px;
+  float: right;
+  padding: 1px 1px 1px 0;
+  font-family: "tahoma";
+  font-size: 13px!important;
+  margin: 1px;
+  border: 0;
+  color: #575757;
+  font-weight: normal;
+  text-transform: none
+}
+.finance2 h1 {
+  text-indent: 5px;
+  width: 200px;
+  line-height: 20px;
+  float: right;
+  padding: 1px 1px 1px 0;
+  font-family: "tahoma";
+  font-size: 13px!important;
+  margin: 1px;
+  border: 0;
+  color: #575757;
+  font-weight: normal;
+  text-transform: none
+}
+.finance2 h4 {
+  width: 170px;
+  text-indent: 5px;
+  line-height: 20px;
+  float: right;
+  padding: 1px 1px 1px 0;
+  font-family: "tahoma";
+  font-size: 13px!important;
+  margin: 1px;
+  border: 0;
+  color: #575757;
+  font-weight: normal;
+  text-transform: none
+}
+.finance2 h5 {
+  width: 280px;
+  text-indent: 5px;
+  line-height: 20px;
+  float: right;
+  padding: 1px 1px 1px 2px;
+  font-family: "tahoma";
+  font-size: 13px!important;
+  margin: 1px;
+  border: 0;
+  font-weight: normal;
+  text-transform: none
+}
+.download2 h5 {
+  width: 150px;
+  text-indent: 5px;
+  line-height: 20px;
+  float: right;
+  padding: 1px 1px 1px 2px;
+  font-family: "tahoma";
+  font-size: 13px!important;
+  margin: 1px;
+  border: 0;
+  font-weight: normal;
+  text-transform: none
+}
+.finance2 h6 {
+  border: 0;
+  font-family: "tahoma";
+  font-size: 13px!important;
+  width: 43px;
+  line-height: 20px;
+  margin: 1px;
+  float: right;
+  font-weight: normal;
+  text-transform: none;
+  color: #575757;
+  text-indent: 5px
+}
+.finance2 a {
+  color: #0188c5
+}
+.finance2 a:hover {
+  text-decoration: underline;
+  color: #0188c5
+}
+.finance-top {
+  width: 757px;
+  float: right
+}
+.finance-top h3 {
+  padding: 1px;
+  font-family: "tahoma";
+  font-size: 10px!important;
+  width: 50px;
+  line-height: 20px;
+  margin: 1px;
+  float: right;
+  font-weight: normal;
+  text-transform: uppercase;
+  color: #575757;
+  text-indent: 5px
+}
+.finance-top h2 {
+  width: 200px;
+  text-indent: 0;
+  line-height: 20px;
+  float: right;
+  padding: 1px 1px 1px 0;
+  font-family: "tahoma";
+  font-size: 10px!important;
+  margin: 1px;
+  border: 0;
+  color: #575757;
+  font-weight: bold;
+  text-transform: none
+}
+.finance-top h1 {
+  text-indent: 0;
+  width: 200px;
+  line-height: 20px;
+  float: right;
+  padding: 1px 1px 1px 0;
+  font-family: "tahoma";
+  font-size: 10px!important;
+  margin: 1px;
+  border: 0;
+  color: #575757;
+  font-weight: normal;
+  text-transform: none
+}
+.finance-top h4 {
+  width: 160px;
+  text-indent: 0;
+  line-height: 20px;
+  float: right;
+  padding: 1px 1px 1px 0;
+  font-family: "tahoma";
+  font-size: 10px!important;
+  margin: 1px;
+  border: 0;
+  color: #575757;
+  font-weight: normal;
+  text-transform: none
+}
+.finance-top h5 {
+  width: 280px;
+  text-indent: 0;
+  line-height: 20px;
+  float: right;
+  padding: 1px 1px 1px 2px;
+  font-family: "tahoma";
+  font-size: 10px!important;
+  margin: 1px;
+  border: 0;
+  font-weight: normal;
+  text-transform: none;
+  color: #575757
+}
+.finance-top h6 {
+  border: 0;
+  font-family: "tahoma";
+  font-size: 10px!important;
+  width: 43px;
+  line-height: 20px;
+  margin: 1px;
+  float: right;
+  font-weight: normal;
+  text-transform: none;
+  color: #575757;
+  text-indent: 0;
+  padding: 1px
+}
+
+#ContentPlaceHolderDefault_ctl11_FinancialReportListControl_2_ddlYear {
+  float: right;
+  margin-top: 3px
+}
+.NewsDes-new {
+  width: 330px;
+  float: left
+}
+.NewsDes-new h2 {
+  color: #2dcafe;
+  font-size: 14px;
+  float: left;
+  width: 100%;
+  margin: 0 0 10px 0;
+  font-family: tahoma;
+  text-transform: uppercase
+}
+.NewsDes-new ul {
+  padding: 0;
+  list-style: none;
+  margin: 10px 0;
+  float: left;
+  font-size: 12px;
+  font-family: tahoma
+}
+.NewsDes-new ul li {
+  padding: 0;
+  list-style: none;
+  background: 0 none;
+  line-height: 18px;
+  width: 330px
+}
+.NewsDes-new ul li b, .NewsDes-new ul li a strong {
+  font-size: 10pt;
+  font-weight: bold;
+  display: inline-block;
+  margin: 0
+}
+.NewsDes-new ul li a {
+  font-family: tahoma;
+  font-weight: normal;
+  color: #575757;
+  display: block;
+  width: 320px;
+  line-height: 16px
+}
+.NewsDe-news ul li a:hover {
+  color: #6c6c6c
+}
+.hm-bt {
+  float: right;
+  height: 20px;
+  width: 120px;
+  padding: 0 40px 0 0
+}
+.MoreBox3 {
+  height: 20px;
+  float: right;
+  width: 120px;
+  padding-right: 65px
+}
+.MoreBox3 a {
+  font-family: tahoma;
+  background: url(../images_ar/arrowsAndButt.png) right -57px no-repeat;
+  width: 120px;
+  height: 20px;
+  display: block;
+  color: #fff;
+  line-height: 20px;
+  margin: 0 0 0 6px;
+  padding: 0;
+  font-size: 9px;
+  text-align: center
+}
+.MoreBox3 a.view {
+  font-family: tahoma;
+  background: url(../images_ar/arrowsAndButt.png) right -27px no-repeat;
+  width: 70px;
+  height: 20px;
+  display: block;
+  color: #fff;
+  line-height: 20px;
+  margin: 0 0 0 6px;
+  padding: 0;
+  font-size: 9px;
+  text-align: center
+}
+.newsinfo {
+  width: 750px;
+  border-bottom: 1px dotted #009fe6;
+  padding-bottom: 15px;
+  margin: 10px 0 15px 0;
+  float: right
+}
+.newsinfo span.date {
+  font-size: 11px;
+  display: block;
+  margin: 10px 0
+}
+.newsinfo h3.Currentadv {
+  font-size: 16px;
+  margin: 8px 0 0 0;
+  font-weight: normal;
+  font-family: tahoma, Helvetica, sans-serif
+}
+.newsinfo h3.Currentadv a {
+  color: #009fe6
+}
+.newsinfo img {
+  float: right;
+  margin: 0 0 0 10px
+}
+.pager {
+  padding: 0 0 20px 20px;
+  clear: both
+}
+.pager a {
+  font-size: 13px;
+  font-weight: bold;
+  float: right
+}
+.pager li {
+  float: left;
+  list-style: none;
+  padding: 0 6px 0 0!important;
+  background: 0 none!important
+}
+.pager li a {
+  float: none;
+  font-size: 12px;
+  font-weight: normal;
+  display: block;
+  padding: 0 1px 1px 6px;
+  line-height: 22px
+}
+.pager li.act {
+  background: url('../images/sortact-right.png') no-repeat right center!important
+}
+.pager .act span {
+  background: url('../images/sortact.png') no-repeat left center;
+  font-weight: bold;
+  color: #333;
+  display: block;
+  padding: 0 1px 1px 6px;
+  line-height: 22px
+}
+.pager a.SelectPage {
+  background: url('../images/sortact.png') no-repeat left center!important;
+  font-weight: bold;
+  color: #333;
+  display: block;
+  line-height: 22px;
+  text-decoration: none
+}
+.pager a.SelectPage:hover {
+  text-decoration: none
+}
+a.lange {
+  padding: 0;
+  color: #0d8cbf;
+  font-family: arial;
+  background: url(../images_ar/arrowsAndButt.png) right 0 no-repeat;
+  width: 57px;
+  height: 17px;
+  display: inline-block;
+  margin: 15px 0 0 0;
+  float: left
+}
+.Tell {
+  background-color: White;
+  border: 5px solid #969eab;
+  font-family: tahoma
+}
+.Tell h1 {
+  border-bottom: 0 dotted #b3b3b3;
+  color: #22aeec;
+  font-family: arial;
+  font-size: 18pt;
+  font-weight: normal;
+  height: 40px;
+  margin: 10px 0
+}
+input[type="submit"] {
+  background: url("../images/Button.png") repeat scroll 0 0 #22aeec;
+  border-color: #980000;
+  border-style: solid;
+  border-width: 0;
+  color: #fff;
+  cursor: pointer;
+  font-family: tahoma, helvetica, freesans, sans-serif;
+  height: 24px;
+  line-height: 20px;
+  margin: 15px;
+  width: 100px
+}
+.TextArea, input[type="text"], TextArea {
+  border: 1px solid #e6e6e6;
+  border-radius: 7px 7px 7px 7px;
+  color: #494949;
+  font-family: Tahoma;
+  font-size: 11px;
+  height: 19px;
+  margin: 0;
+  padding: 3px;
+  width: 60%
+}
+
+ .selectM {
+  border: 1px solid #e6e6e6;
+  border-radius: 7px 7px 7px 7px;
+  color: #494949;
+  font-family: Tahoma;
+  font-size: 11px;
+  height: 28px;
+  margin: 0;
+  padding: 3px;
+  width: 52%
+}
+
+.modalBackground {
+  width: 100%;
+  height: 100%;
+  background: #eee;
+  opacity: .8
+}
+.Tell span.label {
+  width: 125px;
+  display: inline-block;
+  padding: 0 4px
+}
+.Tell td {
+  padding: 4px 0
+}
+.Error {
+  color: red
+}
+.Tell label {
+  display: inline-block;
+  padding: 0 5px
+}
+.column_2 {
+  position: absolute;
+  visibility: hidden;
+  margin: -1px 4px 0 0;
+  padding: 0;
+  right: 0;
+  top: 100%;
+  border: 1px solid #21bcff;
+  border-bottom: 0;
+  background-color: #FFF;
+  z-index: 99999
+}
+.column_2 ul {
+  margin: 0;
+  padding: 0;
+  float: none
+}
+.column_2 ul li {
+  display: inline-block!important;
+  margin: 0;
+  padding: 0;
+  float: none
+}
+.column_2 ul li a {
+  text-decoration: none;
+  color: #fff;
+  padding: 2px 5px;
+  margin: 0;
+  width: 140px;
+  border-bottom: 1px solid #21bcff;
+  float: none
+}
+.column_2 ul li a:hover {
+  text-decoration: none;
+  color: #fff;
+  padding: 2px 5px;
+  margin: 0;
+  width: 140px;
+  border-bottom: 1px solid #21bcff;
+  float: none
+}
+#ooo {
+  display: none
+}
+.box {
+  position: fixed;
+  top: 100px;
+  left: 25%;
+  color: #7f7f7f;
+  padding: 0;
+  border: 0 none;
+  -moz-box-shadow: 5px 10px 15px #333;
+  -webkit-box-shadow: 5px 10px 15px #333;
+  z-index: 10001;
+  display: none;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  border-opacity: .7
+}
+.box p {
+  padding: 0!important
+}
+.box h3 {
+  border-bottom: 1px dashed #7f7f7f;
+  margin: -20px -20px 0 -20px;
+  padding: 10px;
+  background-color: #ffefef;
+  color: #ef7777
+}
+a.boxclose {
+  width: 36px;
+  height: 36px;
+  background: transparent url(../images/cancel.png) repeat top left;
+  margin-top: -40px;
+  position: absolute;
+  right: 0;
+  cursor: pointer
+}
+.clr {
+  clear: both;
+}
+.addthis_toolbox {
+  margin-bottom: 10px;
+width:65px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**** new 3/10/2013 ****/
+.open-a{  background: none repeat scroll 0 0 #D4F2F9;
+    float: right;
+    height: 488px;
+    padding: 26px;
+    width: 315px;
+    margin-bottom:10px;}
+.open-form{ float:left; width:390px;} 
+.open-form table{ width:100% !important; }
+.open-form h2{color:#0081C8; margin:10px 0}
+.open-form .TextArea, .open-form input[type="text"], .open-form TextArea{ width:100px}
+.open-form .label{ width:100%; padding:5px 0}
+.open-form .Tell {
+    background-color: #64c3eb;
+  border:0 none;
+    color: #FFFFFF; padding:10px 15px;
+  height: 520px;
+ 
+}
+
+.open-form input[type="button"] {
+  -moz-box-shadow:inset 0px 2px 0px 0px #cae3fc;
+  -webkit-box-shadow:inset 0px 2px 0px 0px #cae3fc;
+  box-shadow:inset 0px 2px 0px 0px #cae3fc;
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #79bbff), color-stop(1, #4197ee) );
+  background:-moz-linear-gradient( center top, #79bbff 5%, #4197ee 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff', endColorstr='#4197ee');
+  background-color:#79bbff;
+  -webkit-border-top-left-radius:10px;
+  -moz-border-radius-topleft:10px;
+  border-top-left-radius:10px;
+  -webkit-border-top-right-radius:10px;
+  -moz-border-radius-topright:10px;
+  border-top-right-radius:10px;
+  -webkit-border-bottom-right-radius:10px;
+  -moz-border-radius-bottomright:10px;
+  border-bottom-right-radius:10px;
+  -webkit-border-bottom-left-radius:10px;
+  -moz-border-radius-bottomleft:10px;
+  border-bottom-left-radius:10px;
+  text-indent:0;
+  border:1px solid #469df5;
+  display:inline-block;
+  color:#ffffff;
+  font-family:tahoma;
+  font-size:15px;
+  font-weight:normal;
+  font-style:normal;
+  height:35px;
+  line-height:35px;
+  width:131px;
+  text-decoration:none;
+  text-align:center;
+  text-shadow:1px 1px 0px #287ace;
+  cursor:pointer
+}
+.open-form input[type="button"]:hover {
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #4197ee), color-stop(1, #79bbff) );
+  background:-moz-linear-gradient( center top, #4197ee 5%, #79bbff 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#4197ee', endColorstr='#79bbff');
+  background-color:#4197ee;
+}.open-form input[type="button"]:active {
+  position:relative;
+  top:1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */

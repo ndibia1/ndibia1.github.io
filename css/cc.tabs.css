@@ -1,0 +1,130 @@
+/* Caution! Ensure accessibility in print and other media types... */
+
+<pre>
+div.tabs {
+background: url(../media/68662/tabs-back.gif);
+}
+
+ul.tabs {
+float:left;
+list-style:none;
+height:62px;
+width:100%;
+margin:0;
+padding:0;
+    padding-top:1px;
+  margin-top:1px;
+background: url(../media/68662/tabs-back.gif);
+}
+ 
+ul.tabs li {
+float:left;
+height:62px;
+line-height:62px;
+overflow:hidden;
+position:relative;
+background: url(../media/68662/tabs-back.gif);
+margin:0 5px -1px 0;
+padding:0;
+}
+ 
+ul.tabs li a {
+text-decoration:none;
+color:#004378;
+display:block;
+outline:none;
+padding:0 10px;
+font-weight:bold;
+}
+ 
+ul.tabs li a:hover {
+font-weight:bold;
+  color:#666;
+}
+ 
+html ul.tabs li.active,html ul.tabs li.active a:hover {
+color:#666;
+background: url(../media/68667/tabs-back-hover.gif);
+border-bottom:1px solid #fff;
+font-weight:bold;
+}
+ 
+.tabContainer {
+overflow:hidden;
+clear:both;
+float:left;
+width:100%;
+background:#fff;
+  
+}
+ 
+.tabContent {
+font-size: 12px;
+padding:0px;
+  
+}
+
+div.tabs2 {
+background: url(../media/68662/tabs-back.gif);
+}
+ul.tabs2 {
+float:left;
+list-style:none;
+height:62px;
+width:100%;
+margin:0;
+padding:0;
+    padding-top:1px;
+  margin-top:1px;
+background: url(../media/68662/tabs-back.gif);
+}
+ 
+ul.tabs2 li {
+float:left;
+height:62px;
+line-height:62px;
+overflow:hidden;
+position:relative;
+background: url(../media/68662/tabs-back.gif);
+margin:0 5px -1px 0;
+padding:0;
+}
+ 
+ul.tabs2 li a {
+text-decoration:none;
+color:#004378;
+display:block;
+outline:none;
+padding:0 10px;
+font-weight:bold;
+}
+ 
+ul.tabs2 li a:hover {
+font-weight:bold;
+  color:#666;
+}
+ 
+html ul.tabs2 li.active,html ul.tabs2 li.active a:hover {
+color:#666;
+background: url(../media/68667/tabs-back-hover.gif);
+border-bottom:1px solid #fff;
+font-weight:bold;
+}
+
+</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */

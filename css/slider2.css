@@ -1,0 +1,9 @@
+div.wrap1{width:196px;margin:0 auto;text-align:left}
+div#header1{position:relative;}
+div#header1 div.wrap1{height:171px;background:url(../images/header-bg.png) no-repeat 50% 0}
+div#header1 div#slide-holder1{z-index:40;width:196px;height:171px; margin:0 0 10px 0}
+div#header1 div#slide-holder1 div#slide-runner1{width:196px;height:171px;overflow:hidden;position:absolute}
+div#header1 div#slide-holder1 img{margin:0;display:none;position:absolute}
+div#header1 div#slide-holder1 div#slide-controls1{left:0;bottom:171px;width:196px;height:46px;display:none;position:absolute;background:url(../images/slide-bg.png) 0 0}
+
+

@@ -1,0 +1,270 @@
+
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="rtl">
+<!-- Mirrored from www.adib.eg/arabic/csr by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 18 Sep 2016 15:14:07 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+<meta name="robots" content="index, follow" />
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <title>المسئولية الاجتماعية للشركات | مصرف أبو ظبي الإسلامي – مصر</title>
+  
+  <meta name="description" content="يؤمن مصرف ابو ظبي الإسلامي – مصر بالتعاون مع مصرف أبو ظبى الاسلامى بأهمية المشاركة الاجتماعية، ودورها الإيجابى فى خدمة المجتمع "/>
+  <link rel="shortcut icon" href="../images_ar/favicon.png" type="image/x-icon">
+  <link rel="stylesheet" type="text/css" href="../css/css_ar.css"/>
+  <link rel="stylesheet" type="text/css" href="../css_ar/glowtabs.css"/>
+  <link rel="stylesheet" href="../css_ar/slider.css" type="text/css" media="screen"/>
+    <link rel="stylesheet" href="../css_ar/jquery-ui.css" type="text/css" media="screen"/>
+     <script>
+function myFunction() {
+    var myWindow = window.open("#", "myWindow", "maximize=yes, toolbar=yes, scrollbars=yes,width=600, height=600");
+
+}
+</script>
+  <script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+var pluginUrl =
+'../../www.google-analytics.com/plugins/ga/inpage_linkid.js';
+_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-43761380-1']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script>
+  
+ <link rel="stylesheet" href="../css/slider2.css" type="text/css" media="screen"/>
+<script src="../css/js/jquery-1.9.1.js"></script>
+  <script src="../css/js/jquery-ui.js"></script>
+ <script src="../css/js/jquery-ui.css"></script>                 
+      <script>
+    $(document).ready(function(){
+ $("#lnkarabic").click( function(){
+var lnk = window.location.href;
+        
+      if(lnk.indexOf("hajj-and-omra")<0)
+      {
+        if (lnk.indexOf("Arabic") >= 0)
+        {
+       window.location.href = lnk.replace(".eg/Arabic",".eg");
+        }
+        else
+        {
+       window.location.href = lnk.replace(".eg/arabic",".eg");   
+        }
+      }
+
+      }
+    
+    );
+    
+    });
+    
+    </script>
+     <style type="text/css">
+.aFooter {
+  color: #FFF;
+  padding:10px;
+  font-size:13px;
+  font-weight:bold;
+}
+</style>
+
+    
+  <link rel="stylesheet" href="../css/cc.tabs-ar.css" type="text/css" media="print, projection, screen">
+        <!-- Additional IE/Win specific style sheet (Conditional Comments) -->
+        <!--[if lte IE 7]>
+        <link rel="stylesheet" href="/css/ui.tabs-ie.css" type="text/css" media="projection, screen">
+        <![endif]-->
+        <!--<script src="/media/68566/jquery-1.2.1.pack.js" type="text/javascript"></script>-->
+        <script src="../media/68569/ui.tabs.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            $(function() {
+               //hiding tab content except first one
+    $(".tabContent").not(":first").hide();
+    // adding Active class to first selected tab and show
+    $("ul.tabs li:first").addClass("active").show();  
+ 
+    // Click event on tab
+    $("ul.tabs li").click(function() {
+        // Removing class of Active tab
+        $("ul.tabs li.active").removeClass("active");
+        // Adding Active class to Clicked tab
+        $(this).addClass("active");
+        // hiding all the tab contents
+        $(".tabContent").hide();        
+        // showing the clicked tab's content using fading effect
+        $($('a',this).attr("href")).fadeIn('slow');
+ 
+        return false;
+    });
+ 
+});
+        </script>
+    
+
+  </head>
+    
+    
+    <body>
+    <!-- Google Tag Manager -->
+<noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-M7JT8B"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'../../www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M7JT8B');</script>
+<!-- End Google Tag Manager -->
+
+    <form method="post" action="http://www.adib.eg/arabic/csr" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MWRklgZOTpqrvZpNP+hpRpsMrXGKSIP9DKp2xtvKkD9/BP8=" />
+</div>
+
+
+<script src="../ScriptResourceff53.js?d=qzQmNB515OlCnbWUl6HTHsCAyFNQBKHIjGxCaFlODvm8mgP3SMoRqXfzuQzgJuXMontmPkQU66VM5lGNrMoRqmOawYXeurAklZaS4XyNHqSC79PfcToBiTxZaxiXrpXd0&amp;t=ffffffff823b7694" type="text/javascript"></script>
+  
+  <div id="wrapper"><div id="contsWrap">
+    <div id="headerwrap"><a id="lnkarabic" class="lange"></a><div id="Nbd_Logo"><span><a href="../arabic.html" title="مصرف أبو ظبي الإسلامي – مصر"></a></span></div>
+     
+    <div class="topNav"><ul id="jDropDown"><li><a href="../arabic.html">الرئيسية</a></li><li>|</li>
+    <li><a dir="rtl" href="about-ADIB – Abu Dhabi">عن مصرف أبو ظبي الإسلامي</a>
+            <div class="column_2">
+        <ul>
+          <li><a href="about-ADIB – Abu Dhabi/about-ADIB – Abu Dhabi">نبذة عن مصرف أبو ظبي الإسلامي </a></li>
+          <li><a href="about-ADIB – Abu Dhabi/vision-mission">مهمتنا و رؤيتنا </a></li>
+          <li><a href="about-ADIB – Abu Dhabi/board-of-directors">مجلس الإدارة </a></li>
+          <li><a href="about-ADIB – Abu Dhabi/corporate-values">قيم المؤسسة </a></li>
+        </ul>
+      </div>
+    
+    </li><li>|</li><li><a href="understanding-islamic-banking">الخدمات المصرفية الإسلامية</a></li><li>|</li><li><a href="csr">المسئولية الاجتماعية للشركات</a></li><li>|</li><li><a>العلاقات مع المستثمرين</a><div class="column_2" ><ul><li><a href="financial-results">النتائج المالية</a></li><li><a href="audit-committee-reports">تقارير لجنة المراجعة</a></li><li><a href="shareholders-structure">هيكل المساهمين</a></li><li><a href="executive-management">المدراء التنفيذيين</a></li><li><a href="about-ADIB – Abu Dhabi/board-of-directors">مجلس الإدارة</a></li><li><a href="gam-resolutions">قرارات الجمعية العامة</a></li><li><a href="gam-minutes">محاضر الجمعية العامة</a></li><li><a href="major-decisions">الأحداث الجوهرية</a></li><li><a href="investors-relations-officials">مسئولي علاقات المستثمرين</a></li><li><a href="additional-information">معلومات اضافية</a></li></ul></div></li><li>|</li><li><a href="contact-us">إتصل بنا</a></li></ul></div></div><div id="ddtabs2" class="glowingtabs"><ul><li><a href="treasury" rel="gc1"><span>الخزانة</span></a></li><li><a href="wholesale-banking" rel="gc2"><span>الخدمات المصرفية للشركات</span></a></li><li><a href="business-banking" rel="gc3"><span>الخدمات المصرفية للأعمال</span></a></li><li><a href="personal-banking" rel="gc4"><span>الخدمات المصرفية للأفراد</span></a></li></ul></div><DIV class="tabcontainer"><div id="gc1" class="tabcontent"></div><div id="gc2" class="tabcontent"></div><div id="gc3" class="tabcontent"><p><a href="business-banking/business-financing">برامج تمويل الأعمال</a> <a href="business-banking/adib-business-banking">الخدمات المصرفية للأعمال</a></p></div><div id="gc4" class="tabcontent"><p><a href="personal-banking/sanabel">سنابل</a> <a href="personal-banking/charitable-accounts">الحسابات الخيرية</a> <a href="personal-banking/financing-options">خيارات التمويل</a> <a href="personal-banking/sukuk">خيارات الإيداع</a> <a href="personal-banking/accounts">الحسابات</a> <a href="personal-banking/cash-back-card">بطاقة كاش باك</a> <a href="personal-banking/ADIB-Smart.html">سمارت</a></p></div></DIV><div class="NavBar"><a href="../arabic-2.html" class="removeaspx">مصرف ابو ظبي الإسلامي – مصر
+             
+             
+             &gt;
+            </a>المسئولية الاجتماعية للشركات</div><div id="LeftSide"><div class="CurrentContent ">
+
+  <div class="clr1"></div>
+
+ <h1>المسئولية الاجتماعية للشركات</h1>
+<p dir="RTL">صرحت نيفين لطفي، المدير التنفيذي والعضو المنتدب «إيمانًا من  مصرف أبو ظبي الإسلامي - مصر بأن النجاح في الأعمال المصرفية والتنمية المجتمعية  هدفان يكملا بعضهما البعض، يحرص البنك جاهداً على أن يكون مؤسسة داعمة للمجتمع  الذي يعمل به».</p>
+<p dir="RTL">ومن منطلق اهتمامه باتخاذ خطوات فعالة نحو التنمية المجتمعية فى مصر ، يضع مصرف أبوظبي الإسلامي - مصر أنشطة المسئولية المجتمعية والأعمال الخيرية على قمة أولوياته والتزاماته.  ونحن  نضع نصب أعيننا  القضايا الملحة في المجتمع المصري باعتبارها ركيزة أساسية في فلسفة وصياغة إستراتيجية البنك للتنمية المجتمعية، ونفخر بمشاركتنا الفعالة في هذه المجالات بالتعاون مع كبرى المنظمات والجمعيات الأهلية العاملة بمصر وذلك  لبناء الجسور نحو مستقبل أكثر أشراقاً وصحة.</p>
+<h2>فى مجال الرعاية الصحية</h2>
+<p dir="RTL">يفخر مصرف أبو ظبي الإسلامي - مصر بدعم العديد من المبادرات، والمؤسسات، والمنظمات التي تقدم خدمات الرعاية الصحية الأساسية للمجتمع المصري. ومن المستشفيات الجامعية حتى وحدات الرعاية الصحية المحلية والجمعيات الأهلية، يسعى البنك لتوفير أهم الاحتياجات الصحية للفئات والأفراد الأكثر احتياجاً. </p>
+<p dir="RTL"><strong>شارك مصرف أبو ظبي الإسلامي - مصر في المبادرات التالية:</strong></p>
+<ul>
+<li>دعم كفاءة وقدرة وحدة العناية المركزة بمستشفى الزقازيق الجامعي، والتي تقدم العلاج لقرابة 18 ألف مريض شهريًا من خلال توفير أحدث أجهزة القلب والأوعية الدموية.</li>
+<li>توفير الاجهزة الطبية اللازمة للحد من النزيف اثناء العمليات الجراحية لمستشفى قصر العيني التابع لجامعة القاهرة.</li>
+<li>الشراكة مع المؤسسة المصرية لمكافحة سرطان الثدي لرعاية عدد من العمليات الجراحية،  وتقديم الرعاية الطبية الأساسية للمريضات.</li>
+<li>تجهيز مستشفى كلية الطب بجامعة الفيوم بمعدات طبية لعلاج مرضى القلب لتطويرالخدمات الطبية والتعليمية المقدمة.</li>
+<li>دعم عيادات مستشفى الغراقة الخيري بمركز أجا في الدقهلية والتى تقدم خدمات رعاية صحية مجانية للمواطنين.</li>
+<li>التبرع بأجهزة أشعة الموجات فوق الصوتية لصالح وحدة الرعاية الصحية الخاصة بالجمعية المصرية للأوتيزم (التوحد) في منطقة كوم بكار، حيث لم تتوافر امكانيات الرعاية الصحية.</li>
+</ul>
+<h2>فى مجال التعليم</h2>
+<p dir="RTL">التزاماً من مصرف أبو ظبي الإسلامي مصر نحو مبدأ العدالة الاجتماعية، حيث يتاح لكل فرد فى المجتمع الحصول على الحقوق الأساسية، ركزنا اهتمامنا على التعليم باعتباره حقاً مكفولاً  للجميع وعاملاً أساسيًا في تقدم المجتمع، فضلاً عن دعم التدريب المهنى الأساسى للتطور ورفع الكفاءات. ونفخر بالمشاركة فى المبادرات التالية :</p>
+<ul>
+<li>قمنا بالتعاون مع كلية الحقوق بجامعة الإسكندرية فى سداد الرسوم الدراسية  المتأخرة للطلبة الغير قادرين، لإزالة العوائق المادية التي تحول دون تخرجهم واندماجهم في الحياة العملية.</li>
+<li>تعاونا مع مستشفى سرطان الأطفال 57357 لتدريب فريق التمريض وتطوير مهاراته وكفاءته من خلال عدة برامج بالتنسيق مع مؤسسات طبية دولية.</li>
+<li>اهتم مصرف أبو ظبي الإسلامي - مصر بالتوسع الجغرافي في أعماله الخيرية ليشمل صعيد مصر ونفخر بتشجيع الشباب لابتكار أفكار غير تقليدية في مجال التكنولوجيا، وذلك من خلال تكريم الفائز في برنامج « Start Up Weekend » من محافظة أسيوط، حيث وفر البنك رأس المال اللازم لتنفيذ الفكرة الفائزة وتحويلها إلى حقيقة على أرض الواقع.</li>
+</ul>
+<h2>فى الجانب المجتمعي</h2>
+<p dir="RTL">كان من دواعي فخر مصرف أبو ظبي الإسلامي - مصر أن يشارك في العديد من المشروعات الخيرية في مناطق الدلتا وصعيد مصر، حيث استفاد من تلك المشروعات شرائح المجتمع الأكثر احتياجاَ.</p>
+<p dir="RTL"> </p>
+<ul>
+<li>شارك البنك فى توفير  التمويل اللازم  لاستكمال بناء «مجمع أبرار للأعمال الخيرية والتنمية» في قرية بني صريد بمركز فاقوس في محافظة الشرقية، حيث يضم المجمع مسجدًا ومركزًا تعليميًا، وساعدنا في تأسيس مجمع سكني للمعاقين ذهنياً والعديد من المشروعات السكنية والتنموية الأخرى لصالح الأيتام والمرأة المعيلة برعاية «مؤسسة أبرار مصر لذوي الاحتياجات الخاصة».</li>
+<li>شارك مصرف أبو ظبي الإسلامي - مصر «مؤسسة  نور على نور الخيرية»  للمساهمة  في بناء مستشفى طب وجراحة الأطفال في الشيخ زايد.</li>
+<li>وإيمانًا منا بأن الأجيال الجديدة هي الأمل في مستقبل مشرق، ساهم  مصرف أبو ظبي الإسلامي - مصر في مساندة «جمعية أولادي للأيتام» لإنشاء معمل حاسب آلى حديث، كما شكل فريقًا من العاملين المتطوعين للإشراف على الدورات التدريبية على الحاسب الآلى،  فضلاً عن توفير ماكينات لمشغل الحياكة وتدريب الأيتام على استخدامها لاكتساب المهارات الحرفية اليدوية وتمكينهم من الإنتاج بغرض البيع.</li>
+<li>كما شاركنا فى مبادرة فك كرب الغارمين التي أطلقتها مؤسسة مصر الخير لسداد مديونيات عددًا من الغارمات وتحريرهم من السجن لمنحهم وعائلاتهم فرصة لمستقبل أفضل.</li>
+</ul>
+<h2>الخطوات المستقبلية:</h2>
+<p dir="RTL">سيواصل مصرف أبو ظبي الإسلامي - مصر التزامه بدوره في دعم مشروعات المسئولية المجتمعية، وإيماناَ منا بأهمية قضايا الرعاية الصحية والتعليم، سنستمر في دعم المبادرات المتعلقة بهما باعتبارهما من أهم المجالات التي تمس حياة المواطن المصري. وفى الأعوام القادمة، سيعمل  البنك على المساهمة في مشروعات قومية حيوية جديدة ، وسوف يضع البنك خطة مفصلة بأنشطة المسئولية المجتمعية للتأكد من وصول الخدمات إلى الشرائح الأكثر احتياجًا. ونعمل على تقييم عدد من المشروعات ذات الصلة لتحديد مبادرات مستدامة لتكون ركيزة عملنا المجتمعي.</p>
+
+
+ 
+  
+  
+  <div class="FooterAdv"><a href='wholesale-banking'>
+    <p class="reImgeImg"><img src="../images_ar/AccountsAdv.gif" width="236" height="149" alt="الخدمات المصرفية للشركات"/></p>
+<h3 class="Currentadv">الخدمات المصرفية للشركات</h3>
+<p>مجموعة الخدمات المصرفية لمصرف ابو ظبي الإسلامي – مصر تقدم حلولاً مالية كاملة المواصفات للخدمات المصرفية الإسلامية في مصر لجميع هيئات القطاع العام والشركات الخاصة الدولية منها والمحلية بالإضافة للمؤسسات الصغيرة والمتوسطة. خصص البنك مجموعة من الحلول المالية الإسلامية تشمل نطاقًا كاملاً من المنتجات والخدمات المصرفية المالية، بما في ذلك إدارة النقدية والتجارة وحلول الخزانة، بجانب التمويل والخدمات المصرفية الاستثمارية للشركات، والتي تتوافق جميعها مع أحكام ومبادئ الشريعة الإسلامية.</p></a></div></div></div><div class="RightSide"><div class="Ways"></div><div class="CallUs"><ul>
+<li><strong>الخدمات المصرفية<br />عبر الإنترنت</strong>
+<div class="login">
+<table border="0" cellspacing="0">
+<tbody>
+<tr>
+<td><a href="../registrationar-2"><img src="../media/108502/registerar.png" width="69" height="20" alt="Registerar"/></a></td>
+<td><a href="controller.html"><img src="../media/108507/loginar.png" width="77" height="20" alt="Loginar"/></a></td>
+</tr>
+<tr>
+<td colspan="2">
+<a href="#"><img src="../media/85683/sn-ar-link.png" width="130" style="padding-top:5px" onclick="myFunction()" /></a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+<li><strong>الخط الساخن</strong>
+<p class="reImge"> </p>
+</li>
+<li style="font-size: 15px;"><a href="branches" class="CallUsLink">الفروع</a></li>
+<li style="font-size: 15px;"><a href="atm-locations" class="CallUsLink">ماكينات الصراف الآلى</a></li>
+</ul></div><div class="Map"><div class="gallery"><a href="../images_ar/map3d7d.swf?width=682&amp;height=360" rel="prettyPhoto">Location Map></a></div></div>
+    <iframe src="../newsletter-sub-ar" width="199" height="265" frameBorder="0" scrolling="no"></iframe>
+  <div class="clr"></div>
+            <div id="header1">
+              
+            <div id="slide-holder1" >
+               <div id="slide-runner1">
+            <p><a href="../registrationar-2"><img src="../media/76407/may-20---internet-banking---web-196_w_-_-171_h_-arb.jpg" width="196" height="171" alt="الخدمات المصرفية عبر الانترنت" class="slide" id="slide-img-50"/> </a><a href="personal-banking/cash-back-card"><img src="../media/70702/platinum-ar-196.jpg" width="196" height="171" alt="بطاقة كاش باك" class="slide" id="slide-img-51"/> </a><a href="personal-banking/financing-options"><img src="../media/Banner/Assets-Campaign-Arabic-196wx171h.jpg" width="196" height="171" alt="هنشيل معاك إحتياجاتك" class="slide" id="slide-img-52"/> </a><a href="personal-banking/financing-options/auto-murabaha"><img src="../media/banner/Auto-Finance-Arabic-196wx171h.jpg" width="196" height="171" alt="أسرع اجراءات لسيارتك الجديدة" class="slide" id="slide-img-53"/> </a><a href="personal-banking/accounts/tiered-monthly-saving-account.html"><img src="../media/banner/TSA-Arabic-196wx171h.jpg" width="196" height="171" alt="حساب التوفير الشهري ذو العائد المتزايد" class="slide" id="slide-img-54"/> </a><a href="personal-banking/accounts/current-account.html"><img src="../media/banner/CAArabic.jpg" width="196" height="171" alt="الحساب الجاري" class="slide" id="slide-img-55"/></a> <a href="personal-banking/sukuk/usd-sukuk"><img src="../media/156598/196x171-sukukusd-ar.jpg" width="196" height="171" alt="الصكوك الدولارية" class="slide" id="slide-img-56"/> </a></p>
+           
+              </div>
+            
+             </div>
+            </div>
+          
+            <div class="clr"></div>
+  
+  <div class="Schedule"><h3>جدول الرسوم و المصروفات</h3><p>رسوم الخدمات المصرفية مفصلة للحسابات الشخصية والشركات</p><div class="MoreSchedule"><a href="schedule-of-charges">أضغط هنا لمعرفة المزيد</a></div></div></div><div class="BgFooter"><a href="../arabiccalculator" class="aFooter">احسب قيمة القسط الشهري للتمويل</a></div><div class="FooterLinks"><a href="sitemap">خريطة الموقع</a> | <a href="term-condition">الشروط والأحكام</a></div><div class="CopyRight">تم التطوير بواسطة <a href="http://www.net-wave.net/" target="_blank">NetWave</a></div></div></div></form>
+                   <script>
+  $( document ).ready(function() {
+    $( document ).tooltip();
+  });
+  </script></script><script type="text/javascript" language="javascript" src="../css_ar/js/scripts.js"></script><script type="text/javascript" language="javascript" src="../css_ar/js/ddtabmenu.js"></script><script type="text/javascript">//SYNTAX: ddtabmenu.definemenu("tab_menu_id", integer OR "auto")
+ddtabmenu.definemenu("ddtabs2", 6) //initialize Tab Menu #2 with 2nd tab selected</script><script type="text/javascript" language="javascript" src="../css_ar/js/dropdown.class.js"></script><script type="text/javascript" language="javascript" src="../css_ar/js/conversion.js"></script><script type="text/javascript" language="javascript" src="../css_ar/js/menu.js"></script><noscript><div><img height="1" width="1" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/1008692593/?value=0&amp;label=pXelCLex9wIQ8dr94AM&amp;guid=ON&amp;script=0"/></div></noscript>
+    <!-- Start of Async HubSpot Analytics Code -->
+  <script type="text/javascript">
+    (function(d,s,i,r) {
+      if (d.getElementById(i)){return;}
+      var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+      n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/472563.js';
+      e.parentNode.insertBefore(n, e);
+    })(document,"script","hs-analytics",300000);
+  </script>
+
+<!-- End of Async HubSpot Analytics Code -->
+    <!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 955876301;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="../../www.googleadservices.com/pagead/f.txt">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/955876301/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+    </body>
+<!-- Mirrored from www.adib.eg/arabic/csr by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 18 Sep 2016 15:14:07 GMT -->
+</html>
